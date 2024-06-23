@@ -1,0 +1,1294 @@
+pclass,survived,name,gender,age,family,fare,embarked,date
+3,0,Mr. Anthony,male,42,0,7.5500,,1990-01-01
+3,1,"Abbott, Mr. Rossmore Edward",female,35,2,20.2500,S,1990-01-04
+3,1,"Abelseth, Miss. Karen Marie",female,16,0,7.6500,S,1990-01-05
+3,1,"Abelseth, Mr. Olaus Jorgensen",male,25,0,7.6500,S,1990-01-06
+2,0,"Abelson, Mr. Samuel",male,30,1,24.0000,C,1990-01-07
+2,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,1,24.0000,C,1990-01-08
+3,1,"Abrahamsson, Mr. Abraham August Johannes",male,20,0,7.9250,S,1990-01-09
+3,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,7.2292,C,1990-01-10
+3,0,"Adahl, Mr. Mauritz Nils Martin",male,30,0,7.2500,S,1990-01-11
+3,0,"Adams, Mr. John",male,26,0,8.0500,S,1990-01-12
+3,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,1,9.4750,S,1990-01-13
+3,1,"Aks, Mrs. Sam (Leah Rosen)",female,18,1,9.3500,S,1990-01-15
+3,1,"Albimona, Mr. Nassef Cassem",male,26,0,18.7875,C,1990-01-16
+2,0,"Aldworth, Mr. Charles Augustus",male,30,0,13.0000,S,1990-01-17
+3,0,"Alexander, Mr. William",male,26,0,7.8875,S,1990-01-18
+3,0,"Alhomaki, Mr. Ilmari Rudolf",male,20,0,7.9250,S,1990-01-19
+3,0,"Ali, Mr. Ahmed",male,24,0,7.0500,S,1990-01-20
+3,0,"Ali, Mr. William",male,25,0,7.0500,S,1990-01-21
+1,1,"Allen, Miss. Elisabeth Walton",female,29,0,211.3375,S,1990-01-22
+3,0,"Allen, Mr. William Henry",male,35,0,8.0500,S,1990-01-23
+1,0,"Allison, Miss. Helen Loraine",female,2,3,151.5500,S,1990-01-25
+1,0,"Allison, Mr. Hudson Joshua Creighton",male,30,3,151.5500,S,1990-01-26
+1,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,3,151.5500,S,1990-01-27
+3,0,"Allum, Mr. Owen George",male,18,0,8.3000,S,1990-01-28
+3,0,"Andersen, Mr. Albert Karvin",male,32,0,22.5250,S,1990-01-29
+3,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,1,7.8542,S,1990-01-30
+1,1,"Anderson, Mr. Harry",male,48,0,26.5500,S,1990-01-31
+3,0,"Andersson, Master. Sigvard Harald Elias",male,4,6,31.2750,S,1990-02-01
+3,0,"Andersson, Miss. Ebba Iris Alfrida",female,6,6,31.2750,S,1990-02-02
+3,0,"Andersson, Miss. Ellis Anna Maria",female,2,6,31.2750,S,1990-02-03
+3,1,"Andersson, Miss. Erna Alexandra",female,17,6,7.9250,S,1990-02-04
+3,0,"Andersson, Miss. Ida Augusta Margareta",female,38,6,7.7750,S,1990-02-05
+3,0,"Andersson, Miss. Ingeborg Constanzia",female,9,6,31.2750,S,1990-02-06
+3,0,"Andersson, Miss. Sigrid Elisabeth",female,11,6,31.2750,S,1990-02-07
+3,0,"Andersson, Mr. Anders Johan",male,39,6,31.2750,S,1990-02-08
+3,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,0,7.7958,S,1990-02-09
+3,0,"Andersson, Mr. Johan Samuel",male,26,0,7.7750,S,1990-02-10
+3,0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,6,31.2750,S,1990-02-11
+3,0,"Andreasson, Mr. Paul Edvin",male,20,0,7.8542,S,1990-02-12
+2,0,"Andrew, Mr. Edgardo Samuel",male,18,0,11.5000,S,1990-02-13
+2,0,"Andrew, Mr. Frank Thomas",male,25,0,10.5000,S,1990-02-14
+1,1,"Andrews, Miss. Kornelia Theodosia",female,63,1,77.9583,S,1990-02-15
+1,0,"Andrews, Mr. Thomas Jr",male,39,0,0.0000,S,1990-02-16
+3,0,"Angheloff, Mr. Minko",male,26,0,7.8958,S,1990-02-17
+2,0,"Angle, Mr. William A",male,34,1,26.0000,S,1990-02-18
+2,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,1,26.0000,S,1990-02-19
+1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,51.4792,S,1990-02-20
+3,0,"Arnold-Franchi, Mr. Josef",male,25,1,17.8000,S,1990-02-21
+3,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,1,17.8000,S,1990-02-22
+3,0,"Aronsson, Mr. Ernst Axel Algot",male,24,0,7.7750,S,1990-02-23
+1,0,"Artagaveytia, Mr. Ramon",male,71,0,49.5042,C,1990-02-24
+2,0,"Ashby, Mr. John",male,57,0,13.0000,S,1990-02-25
+3,0,"Asim, Mr. Adola",male,35,0,7.0500,S,1990-02-26
+3,0,"Asplund, Master. Carl Edgar",male,5,6,31.3875,S,1990-02-27
+3,0,"Asplund, Master. Clarence Gustaf Hugo",male,9,6,31.3875,S,1990-02-28
+3,1,"Asplund, Master. Edvin Rojj Felix",male,3,6,31.3875,S,1990-03-01
+3,0,"Asplund, Master. Filip Oscar",male,13,6,31.3875,S,1990-03-02
+3,1,"Asplund, Miss. Lillian Gertrud",female,5,6,31.3875,S,1990-03-03
+3,0,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,6,31.3875,S,1990-03-04
+3,1,"Asplund, Mr. Johan Charles",male,23,0,7.7958,S,1990-03-05
+3,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,6,31.3875,S,1990-03-06
+3,1,"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45,0,7.2250,C,1990-03-07
+3,0,"Assaf, Mr. Gerios",male,21,0,7.2250,C,1990-03-08
+3,0,"Assam, Mr. Ali",male,23,0,7.0500,S,1990-03-09
+1,0,"Astor, Col. John Jacob",male,47,1,227.5250,C,1990-03-10
+1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,227.5250,C,1990-03-11
+3,0,"Attalah, Miss. Malake",female,17,0,14.4583,C,1990-03-12
+3,0,"Attalah, Mr. Sleiman",male,30,0,7.2250,C,1990-03-13
+1,1,"Aubart, Mme. Leontine Pauline",female,24,0,69.3000,C,1990-03-14
+3,0,"Augustsson, Mr. Albert",male,23,0,7.8542,S,1990-03-15
+3,1,"Ayoub, Miss. Banoura",female,13,0,7.2292,C,1990-03-16
+3,0,"Baccos, Mr. Raffull",male,20,0,7.2250,C,1990-03-17
+3,0,"Backstrom, Mr. Karl Alfred",male,32,1,15.8500,S,1990-03-18
+3,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3,15.8500,S,1990-03-19
+3,1,"Baclini, Miss. Marie Catherine",female,5,3,19.2583,C,1990-03-22
+3,1,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,3,19.2583,C,1990-03-23
+3,1,"Badman, Miss. Emily Louisa",female,18,0,8.0500,S,1990-03-24
+3,0,"Badt, Mr. Mohamed",male,40,0,7.2250,C,1990-03-25
+2,0,"Bailey, Mr. Percy Andrew",male,18,0,11.5000,S,1990-03-26
+2,0,"Baimbrigge, Mr. Charles Robert",male,23,0,10.5000,S,1990-03-27
+3,0,"Balkic, Mr. Cerin",male,26,0,7.8958,S,1990-03-28
+2,1,"Ball, Mrs. (Ada E Hall)",female,36,0,13.0000,S,1990-03-29
+2,0,"Banfield, Mr. Frederick James",male,28,0,10.5000,S,1990-03-30
+3,1,"Barah, Mr. Hanna Assi",male,20,0,7.2292,C,1990-03-31
+3,0,"Barbara, Miss. Saiide",female,18,1,14.4542,C,1990-04-01
+3,0,"Barbara, Mrs. (Catherine David)",female,45,1,14.4542,C,1990-04-02
+1,1,"Barber, Miss. Ellen ""Nellie""",female,26,0,78.8500,S,1990-04-03
+1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80,0,30.0000,S,1990-04-04
+3,0,"Barry, Miss. Julia",female,27,0,7.8792,Q,1990-04-05
+3,0,"Barton, Mr. David John",male,22,0,8.0500,S,1990-04-06
+2,0,"Bateman, Rev. Robert James",male,51,0,12.5250,S,1990-04-07
+1,0,"Baxter, Mr. Quigg Edmond",male,24,1,247.5208,C,1990-04-09
+1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,1,247.5208,C,1990-04-10
+1,1,"Bazzani, Miss. Albina",female,32,0,76.2917,C,1990-04-11
+2,1,"Beane, Mr. Edward",male,32,1,26.0000,S,1990-04-12
+2,1,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,26.0000,S,1990-04-13
+1,0,"Beattie, Mr. Thomson",male,36,0,75.2417,C,1990-04-14
+2,0,"Beauchamp, Mr. Henry James",male,28,0,26.0000,S,1990-04-15
+3,0,"Beavan, Mr. William Thomas",male,19,0,8.0500,S,1990-04-16
+2,1,"Becker, Master. Richard F",male,1,3,39.0000,S,1990-04-17
+2,1,"Becker, Miss. Marion Louise",female,4,3,39.0000,S,1990-04-18
+2,1,"Becker, Miss. Ruth Elizabeth",female,12,3,39.0000,S,1990-04-19
+2,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,3,39.0000,S,1990-04-20
+1,1,"Beckwith, Mr. Richard Leonard",male,37,2,52.5542,S,1990-04-21
+1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,2,52.5542,S,1990-04-22
+2,1,"Beesley, Mr. Lawrence",male,34,0,13.0000,S,1990-04-23
+1,1,"Behr, Mr. Karl Howell",male,26,0,30.0000,C,1990-04-24
+3,0,"Bengtsson, Mr. John Viktor",male,26,0,7.7750,S,1990-04-25
+2,1,"Bentham, Miss. Lilian W",female,19,0,13.0000,S,1990-04-26
+3,0,"Berglund, Mr. Karl Ivar Sven",male,22,0,9.3500,S,1990-04-27
+2,0,"Berriman, Mr. William John",male,23,0,13.0000,S,1990-04-28
+3,0,"Betros, Mr. Tannous",male,20,0,4.0125,C,1990-04-30
+1,1,"Bidois, Miss. Rosalie",female,42,0,227.5250,C,1990-05-01
+3,1,"Bing, Mr. Lee",male,32,0,56.4958,S,1990-05-02
+1,1,"Bird, Miss. Ellen",female,29,0,221.7792,S,1990-05-03
+3,0,"Birkeland, Mr. Hans Martin Monsen",male,21,0,7.7750,S,1990-05-04
+1,0,"Birnbaum, Mr. Jakob",male,25,0,26.0000,C,1990-05-05
+1,1,"Bishop, Mr. Dickinson H",male,25,1,91.0792,C,1990-05-06
+1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,91.0792,C,1990-05-07
+1,1,"Bissette, Miss. Amelia",female,35,0,135.6333,S,1990-05-08
+3,0,"Bjorklund, Mr. Ernst Herbert",male,18,0,7.7500,S,1990-05-09
+1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,26.5500,S,1990-05-10
+1,0,"Blackwell, Mr. Stephen Weart",male,45,0,35.5000,S,1990-05-11
+1,1,"Blank, Mr. Henry",male,40,0,31.0000,C,1990-05-12
+1,1,"Bonnell, Miss. Caroline",female,30,0,164.8667,S,1990-05-13
+1,1,"Bonnell, Miss. Elizabeth",female,58,0,26.5500,S,1990-05-14
+1,0,"Borebank, Mr. John James",male,42,0,26.5500,S,1990-05-15
+3,0,"Bostandyeff, Mr. Guentcho",male,26,0,7.8958,S,1990-05-16
+2,0,"Botsford, Mr. William Hull",male,26,0,13.0000,S,1990-05-17
+3,0,"Boulos, Master. Akar",male,6,2,15.2458,C,1990-05-18
+3,0,"Boulos, Miss. Nourelain",female,9,2,15.2458,C,1990-05-19
+3,0,"Bourke, Mr. John",male,40,2,15.5000,Q,1990-05-23
+3,0,"Bourke, Mrs. John (Catherine)",female,32,2,15.5000,Q,1990-05-24
+1,1,"Bowen, Miss. Grace Scott",female,45,0,262.3750,C,1990-05-25
+3,0,"Bowen, Mr. David John ""Dai""",male,21,0,16.1000,S,1990-05-26
+2,0,"Bowenur, Mr. Solomon",male,42,0,13.0000,S,1990-05-27
+1,1,"Bowerman, Miss. Elsie Edith",female,22,1,55.0000,S,1990-05-28
+2,0,"Bracken, Mr. James H",male,27,0,13.0000,S,1990-05-29
+3,1,"Bradley, Miss. Bridget Delia",female,22,0,7.7250,Q,1990-05-30
+1,0,"Brady, Mr. John Bertram",male,41,0,30.5000,S,1990-06-01
+3,0,"Braf, Miss. Elin Ester Maria",female,20,0,7.8542,S,1990-06-02
+1,0,"Brandeis, Mr. Emil",male,48,0,50.4958,C,1990-06-03
+3,0,"Braund, Mr. Lewis Richard",male,29,1,7.0458,S,1990-06-04
+3,0,"Braund, Mr. Owen Harris",male,22,1,7.2500,S,1990-06-05
+3,0,"Brobeck, Mr. Karl Rudolf",male,22,0,7.7958,S,1990-06-07
+3,0,"Brocklebank, Mr. William Alfred",male,35,0,8.0500,S,1990-06-08
+2,1,"Brown, Miss. Amelia ""Mildred""",female,24,0,13.0000,S,1990-06-09
+2,1,"Brown, Miss. Edith Eileen",female,15,2,39.0000,S,1990-06-10
+2,0,"Brown, Mr. Thomas William Solomon",male,60,2,39.0000,S,1990-06-11
+1,0,"Baumann, Mr. John D",male,30,0,25.9250,S,1990-04-08
+1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,27.7208,C,1990-06-12
+1,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,2,51.4792,S,1990-06-13
+2,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,2,39.0000,S,1990-06-14
+2,1,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20,1,26.0000,S,1990-06-15
+2,0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,1,26.0000,S,1990-06-16
+3,1,"Buckley, Mr. Daniel",male,21,0,7.8208,Q,1990-06-18
+1,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,0,76.2917,C,1990-06-19
+3,0,"Burke, Mr. Jeremiah",male,19,0,6.7500,Q,1990-06-20
+1,1,"Burns, Miss. Elizabeth Margaret",female,41,0,134.5000,C,1990-06-21
+3,0,"Burns, Miss. Mary Delia",female,18,0,7.8792,Q,1990-06-22
+2,1,"Buss, Miss. Kate",female,36,0,13.0000,S,1990-06-23
+2,0,"Butler, Mr. Reginald Fenton",male,25,0,13.0000,S,1990-06-24
+1,0,"Butt, Major. Archibald Willingham",male,45,0,26.5500,S,1990-06-25
+2,0,"Byles, Rev. Thomas Roussel Davids",male,42,0,13.0000,S,1990-06-26
+2,1,"Bystrom, Mrs. (Karolina)",female,42,0,13.0000,S,1990-06-27
+3,0,"Cacic, Miss. Manda",female,21,0,8.6625,S,1990-06-28
+3,0,"Cacic, Miss. Marija",female,30,0,8.6625,S,1990-06-29
+3,0,"Cacic, Mr. Jego Grga",male,18,0,8.6625,S,1990-06-30
+3,0,"Cacic, Mr. Luka",male,38,0,8.6625,S,1990-07-01
+1,1,"Calderhead, Mr. Edward Pennington",male,42,0,26.2875,S,1990-07-03
+2,1,"Caldwell, Mr. Albert Francis",male,26,2,29.0000,S,1990-07-05
+2,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,2,29.0000,S,1990-07-06
+3,0,"Calic, Mr. Jovo",male,17,0,8.6625,S,1990-07-07
+3,0,"Calic, Mr. Petar",male,17,0,8.6625,S,1990-07-08
+2,1,"Cameron, Miss. Clear Annie",female,35,0,21.0000,S,1990-07-09
+3,0,"Canavan, Miss. Mary",female,21,0,7.7500,Q,1990-07-11
+3,0,"Canavan, Mr. Patrick",male,21,0,7.7500,Q,1990-07-12
+1,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,0,27.4458,C,1990-07-13
+3,0,"Cann, Mr. Ernest Charles",male,21,0,8.0500,S,1990-07-14
+2,0,"Carbines, Mr. William",male,19,0,13.0000,S,1990-07-17
+1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36,1,512.3292,C,1990-07-18
+1,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,1,512.3292,C,1990-07-19
+3,0,"Carlsson, Mr. August Sigfrid",male,28,0,7.7958,S,1990-07-20
+3,0,"Carlsson, Mr. Carl Robert",male,24,0,7.8542,S,1990-07-21
+1,0,"Carlsson, Mr. Frans Olof",male,33,0,5.0000,S,1990-07-22
+3,1,"Carr, Miss. Helen ""Ellen""",female,16,0,7.7500,Q,1990-07-23
+3,0,"Carr, Miss. Jeannie",female,37,0,7.7500,Q,1990-07-24
+1,0,"Carrau, Mr. Francisco M",male,28,0,47.1000,S,1990-07-25
+1,0,"Carrau, Mr. Jose Pedro",male,17,0,47.1000,S,1990-07-26
+1,1,"Carter, Master. William Thornton II",male,11,3,120.0000,S,1990-07-27
+1,1,"Carter, Miss. Lucile Polk",female,14,3,120.0000,S,1990-07-28
+1,1,"Carter, Mr. William Ernest",male,36,3,120.0000,S,1990-07-29
+2,0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,1,26.0000,S,1990-07-30
+1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,3,120.0000,S,1990-07-31
+2,0,"Carter, Rev. Ernest Courtenay",male,54,1,26.0000,S,1990-08-01
+3,0,"Carver, Mr. Alfred John",male,28,0,7.2500,S,1990-08-02
+1,0,"Case, Mr. Howard Brown",male,49,0,26.0000,S,1990-08-03
+1,0,"Cavendish, Mr. Tyrell William",male,36,1,78.8500,S,1990-08-05
+1,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,1,78.8500,S,1990-08-06
+3,0,"Celotti, Mr. Francesco",male,24,0,8.0500,S,1990-08-07
+1,0,"Chaffee, Mr. Herbert Fuller",male,46,1,61.1750,S,1990-08-08
+1,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,1,61.1750,S,1990-08-09
+1,1,"Chambers, Mr. Norman Campbell",male,27,1,53.1000,S,1990-08-10
+1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,1,53.1000,S,1990-08-11
+2,0,"Chapman, Mr. Charles Henry",male,52,0,13.5000,S,1990-08-12
+2,0,"Chapman, Mr. John Henry",male,37,1,26.0000,S,1990-08-13
+2,0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,1,26.0000,S,1990-08-14
+3,0,"Charters, Mr. David",male,21,0,7.7333,Q,1990-08-15
+1,1,"Chaudanson, Miss. Victorine",female,36,0,262.3750,C,1990-08-16
+1,1,"Cherry, Miss. Gladys",female,30,0,86.5000,S,1990-08-17
+1,1,"Chevre, Mr. Paul Romaine",male,45,0,29.7000,C,1990-08-18
+3,1,"Chip, Mr. Chang",male,32,0,56.4958,S,1990-08-20
+3,0,"Christmann, Mr. Emil",male,29,0,8.0500,S,1990-08-22
+2,1,"Christy, Miss. Julie Rachel",female,25,2,30.0000,S,1990-08-23
+2,1,"Christy, Mrs. (Alice Frances)",female,45,2,30.0000,S,1990-08-24
+3,0,"Chronopoulos, Mr. Apostolos",male,26,1,14.4542,C,1990-08-25
+3,0,"Chronopoulos, Mr. Demetrios",male,18,1,14.4542,C,1990-08-26
+1,0,"Clark, Mr. Walter Miller",male,27,1,136.7792,C,1990-08-27
+1,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,1,136.7792,C,1990-08-28
+2,0,"Clarke, Mr. Charles Valentine",male,29,1,26.0000,S,1990-08-29
+2,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,26.0000,S,1990-08-30
+1,1,"Cleaver, Miss. Alice",female,22,0,151.5500,S,1990-08-31
+3,0,"Coelho, Mr. Domingos Fernandeo",male,20,0,7.0500,S,1990-09-02
+3,1,"Cohen, Mr. Gurshon ""Gus""",male,18,0,8.0500,S,1990-09-03
+3,0,"Colbert, Mr. Patrick",male,24,0,7.2500,Q,1990-09-04
+3,0,"Coleff, Mr. Peju",male,36,0,7.4958,S,1990-09-05
+3,0,"Coleff, Mr. Satio",male,24,0,7.4958,S,1990-09-06
+2,0,"Coleridge, Mr. Reginald Charles",male,29,0,10.5000,S,1990-09-07
+2,0,"Collander, Mr. Erik Gustaf",male,28,0,13.0000,S,1990-09-08
+2,1,"Collett, Mr. Sidney C Stuart",male,24,0,10.5000,S,1990-09-09
+1,0,"Colley, Mr. Edward Pomeroy",male,47,0,25.5875,S,1990-09-10
+2,1,"Collyer, Miss. Marjorie ""Lottie""",female,8,2,26.2500,S,1990-09-11
+2,0,"Collyer, Mr. Harvey",male,31,2,26.2500,S,1990-09-12
+2,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,2,26.2500,S,1990-09-13
+1,1,"Compton, Miss. Sara Rebecca",female,39,2,83.1583,C,1990-09-14
+1,0,"Compton, Mr. Alexander Taylor Jr",male,37,2,83.1583,C,1990-09-15
+1,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,2,83.1583,C,1990-09-16
+3,0,"Conlon, Mr. Thomas Henry",male,31,0,7.7333,Q,1990-09-17
+3,0,"Connaghton, Mr. Michael",male,31,0,7.7500,Q,1990-09-18
+3,1,"Connolly, Miss. Kate",female,22,0,7.7500,Q,1990-09-19
+3,0,"Connolly, Miss. Kate",female,30,0,7.6292,Q,1990-09-20
+3,0,"Cook, Mr. Jacob",male,43,0,8.0500,S,1990-09-22
+2,1,"Cook, Mrs. (Selena Rogers)",female,22,0,10.5000,S,1990-09-23
+3,0,"Cor, Mr. Bartol",male,35,0,7.8958,S,1990-09-24
+3,0,"Cor, Mr. Ivan",male,27,0,7.8958,S,1990-09-25
+3,0,"Cor, Mr. Liudevit",male,19,0,7.8958,S,1990-09-26
+2,0,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,0,13.0000,S,1990-09-27
+3,0,"Corn, Mr. Harry",male,30,0,8.0500,S,1990-09-29
+1,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,2,25.7000,S,1990-09-30
+2,0,"Cotterill, Mr. Henry ""Harry""",male,21,0,11.5000,S,1990-10-01
+3,1,"Coutts, Master. Eden Leslie ""Neville""",male,9,2,15.9000,S,1990-10-02
+3,1,"Coutts, Master. William Loch ""William""",male,3,2,15.9000,S,1990-10-03
+3,1,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36,2,15.9000,S,1990-10-04
+3,0,"Coxon, Mr. Daniel",male,59,0,7.2500,S,1990-10-05
+3,0,"Crease, Mr. Ernest James",male,19,0,8.1583,S,1990-10-07
+3,1,"Cribb, Miss. Laura Alice",female,17,1,16.1000,S,1990-10-08
+3,0,"Cribb, Mr. John Hatfield",male,44,1,16.1000,S,1990-10-09
+1,0,"Crosby, Capt. Edward Gifford",male,70,2,71.0000,S,1990-10-10
+1,1,"Crosby, Miss. Harriet R",female,36,2,71.0000,S,1990-10-11
+1,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,2,26.5500,S,1990-10-12
+3,0,"Culumovic, Mr. Jeso",male,17,0,8.6625,S,1990-10-13
+1,0,"Cumings, Mr. John Bradley",male,39,1,71.2833,C,1990-10-14
+1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,71.2833,C,1990-10-15
+3,1,"Dahl, Mr. Karl Edwart",male,45,0,8.0500,S,1990-10-18
+3,0,"Dahlberg, Miss. Gerda Ulrika",female,22,0,10.5167,S,1990-10-19
+3,0,"Dakic, Mr. Branko",male,19,0,10.1708,S,1990-10-20
+3,1,"Daly, Miss. Margaret Marcella ""Maggie""",female,30,0,6.9500,Q,1990-10-21
+3,1,"Daly, Mr. Eugene Patrick",male,29,0,7.7500,Q,1990-10-22
+1,1,"Daly, Mr. Peter Denis ",male,51,0,26.5500,S,1990-10-23
+3,0,"Danbom, Mr. Ernst Gilbert",male,34,2,14.4000,S,1990-10-25
+3,0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,2,14.4000,S,1990-10-26
+1,1,"Daniel, Mr. Robert Williams",male,27,0,30.5000,S,1990-10-27
+1,1,"Daniels, Miss. Sarah",female,33,0,151.5500,S,1990-10-28
+3,0,"Danoff, Mr. Yoto",male,27,0,7.8958,S,1990-10-29
+3,0,"Dantcheff, Mr. Ristiu",male,25,0,7.8958,S,1990-10-30
+1,0,"Davidson, Mr. Thornton",male,31,1,52.0000,S,1990-10-31
+1,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27,3,52.0000,S,1990-11-01
+2,1,"Davies, Master. John Morgan Jr",male,8,2,36.7500,S,1990-11-02
+3,0,"Davies, Mr. Alfred J",male,24,2,24.1500,S,1990-11-03
+2,0,"Davies, Mr. Charles Henry",male,18,0,73.5000,S,1990-11-04
+3,0,"Davies, Mr. Evan",male,22,0,8.0500,S,1990-11-05
+3,0,"Davies, Mr. John Samuel",male,21,2,24.1500,S,1990-11-06
+3,0,"Davies, Mr. Joseph",male,17,2,8.0500,S,1990-11-07
+2,1,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48,2,36.7500,S,1990-11-08
+2,1,"Davis, Miss. Mary",female,28,0,13.0000,S,1990-11-09
+2,0,"de Brito, Mr. Jose Joaquim",male,32,0,13.0000,S,1990-11-12
+3,1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,1,17.4000,S,1990-11-14
+3,1,"de Mulder, Mr. Theodore",male,30,0,9.5000,S,1990-11-15
+3,0,"de Pelsmaeker, Mr. Alfons",male,16,0,9.5000,S,1990-11-16
+2,0,"Deacon, Mr. Percy William",male,17,0,73.5000,S,1990-11-17
+3,1,"Dean, Master. Bertram Vere",male,1,3,20.5750,S,1990-11-18
+3,0,"Dean, Mr. Bertram Frank",male,26,3,20.5750,S,1990-11-19
+3,1,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,3,20.5750,S,1990-11-20
+2,0,"del Carlo, Mr. Sebastiano",male,29,1,27.7208,C,1990-11-21
+1,0,"Clifford, Mr. George Quincy",male,30,0,52.0000,S,1990-09-01
+2,1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1,27.7208,C,1990-11-22
+3,0,"Delalic, Mr. Redjo",male,25,0,7.8958,S,1990-11-23
+2,0,"Denbury, Mr. Herbert",male,25,0,31.5000,S,1990-11-25
+3,0,"Dennis, Mr. Samuel",male,22,0,7.2500,S,1990-11-27
+3,0,"Dennis, Mr. William",male,36,0,7.2500,S,1990-11-28
+3,1,"Devaney, Miss. Margaret Delia",female,19,0,7.8792,Q,1990-11-29
+2,0,"Dibden, Mr. William",male,18,0,73.5000,S,1990-11-30
+1,1,"Dick, Mr. Albert Adrian",male,31,1,57.0000,S,1990-12-01
+1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,1,57.0000,S,1990-12-02
+3,0,"Dika, Mr. Mirko",male,17,0,7.8958,S,1990-12-03
+3,0,"Dimic, Mr. Jovan",male,42,0,8.6625,S,1990-12-04
+3,0,"Dintcheff, Mr. Valtcho",male,43,0,7.8958,S,1990-12-05
+1,1,"Dodge, Dr. Washington",male,53,2,81.8583,S,1990-12-06
+1,1,"Dodge, Master. Washington",male,4,2,81.8583,S,1990-12-07
+1,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,2,81.8583,S,1990-12-08
+2,1,"Doling, Miss. Elsie",female,18,1,23.0000,S,1990-12-10
+2,1,"Doling, Mrs. John T (Ada Julia Bone)",female,34,1,23.0000,S,1990-12-11
+3,0,"Dooley, Mr. Patrick",male,32,0,7.7500,Q,1990-12-12
+3,1,"Dorking, Mr. Edward Arthur",male,19,0,8.0500,S,1990-12-13
+1,0,"Douglas, Mr. Walter Donald",male,50,1,106.4250,C,1990-12-14
+1,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,2,247.5208,C,1990-12-15
+1,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,1,106.4250,C,1990-12-16
+3,1,"Dowdell, Miss. Elizabeth",female,30,0,12.4750,S,1990-12-17
+2,0,"Downton, Mr. William James",male,54,0,26.0000,S,1990-12-18
+3,0,"Doyle, Miss. Elizabeth",female,24,0,7.7500,Q,1990-12-19
+3,1,"Drapkin, Miss. Jennie",female,23,0,8.0500,S,1990-12-20
+3,0,"Drazenoic, Mr. Jozef",male,33,0,7.8958,C,1990-12-21
+2,1,"Drew, Master. Marshall Brines",male,8,2,32.5000,S,1990-12-22
+2,0,"Drew, Mr. James Vivian",male,42,2,32.5000,S,1990-12-23
+2,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,2,32.5000,S,1990-12-24
+3,0,"Duane, Mr. Frank",male,65,0,7.7500,Q,1990-12-25
+1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,39.6000,C,1990-12-26
+1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,1,56.9292,C,1990-12-27
+1,0,"Dulles, Mr. William Crothers",male,39,0,29.7000,C,1990-12-28
+3,1,"Duquemin, Mr. Joseph",male,24,0,7.5500,S,1990-12-29
+2,1,"Duran y More, Miss. Asuncion",female,27,1,13.8583,C,1990-12-30
+2,1,"Duran y More, Miss. Florentina",female,30,1,13.8583,C,1990-12-31
+3,0,"Dyker, Mr. Adolf Fredrik",male,23,1,13.9000,S,1991-01-01
+3,1,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,1,13.9000,S,1991-01-02
+1,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,1,83.1583,C,1991-01-03
+3,0,"Edvardsson, Mr. Gustaf Hjalmar",male,18,0,7.7750,S,1991-01-04
+2,0,"Eitemiller, Mr. George Floyd",male,23,0,13.0000,S,1991-01-05
+3,0,"Eklund, Mr. Hans Linus",male,16,0,7.7750,S,1991-01-06
+3,0,"Ekstrom, Mr. Johan",male,45,0,6.9750,S,1991-01-07
+3,0,"Elias, Mr. Joseph",male,39,2,7.2292,C,1991-01-09
+3,0,"Elias, Mr. Joseph Jr",male,17,2,7.2292,C,1991-01-10
+3,0,"Elias, Mr. Tannous",male,15,2,7.2292,C,1991-01-11
+3,0,"Elsbury, Mr. William James",male,47,0,7.2500,S,1991-01-12
+3,1,"Emanuel, Miss. Virginia Ethel",female,5,0,12.4750,S,1991-01-13
+2,0,"Enander, Mr. Ingvar",male,21,0,13.0000,S,1991-01-15
+1,1,"Endres, Miss. Caroline Louise",female,38,0,227.5250,C,1991-01-16
+1,1,"Eustis, Miss. Elizabeth Mussey",female,54,1,78.2667,C,1991-01-17
+1,0,"Evans, Miss. Edith Corse",female,36,0,31.6792,C,1991-01-18
+2,0,"Fahlstrom, Mr. Arne Jonas",male,18,0,13.0000,S,1991-01-20
+2,0,"Faunthorpe, Mr. Harry",male,40,1,26.0000,S,1991-01-23
+2,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,1,26.0000,S,1991-01-24
+2,0,"Fillbrook, Mr. Joseph Charles",male,18,0,10.5000,S,1991-01-25
+3,0,"Fischer, Mr. Eberhard Thelander",male,18,0,7.7958,S,1991-01-27
+1,1,"Flynn, Mr. John Irwin (""Irving"")",male,36,0,26.3875,S,1991-02-02
+3,0,"Foley, Mr. Joseph",male,26,0,7.8792,Q,1991-02-03
+3,0,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,4,34.3750,S,1991-02-06
+3,0,"Ford, Miss. Robina Maggie ""Ruby""",female,9,4,34.3750,S,1991-02-07
+3,0,"Ford, Mr. Edward Watson",male,18,4,34.3750,S,1991-02-09
+3,0,"Ford, Mr. William Neal",male,16,4,34.3750,S,1991-02-10
+3,0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,4,34.3750,S,1991-02-11
+3,0,"Demetri, Mr. Marinko",male,30,0,7.8958,S,1990-11-24
+1,0,"Foreman, Mr. Benjamin Laventall",male,30,0,27.7500,C,1991-02-12
+1,1,"Fortune, Miss. Alice Elizabeth",female,24,5,263.0000,S,1991-02-13
+1,1,"Fortune, Miss. Ethel Flora",female,28,5,263.0000,S,1991-02-14
+1,1,"Fortune, Miss. Mabel Helen",female,23,5,263.0000,S,1991-02-15
+1,0,"Fortune, Mr. Charles Alexander",male,19,5,263.0000,S,1991-02-16
+1,0,"Fortune, Mr. Mark",male,64,5,263.0000,S,1991-02-17
+1,1,"Fortune, Mrs. Mark (Mary McDougald)",female,60,5,263.0000,S,1991-02-18
+2,0,"Fox, Mr. Stanley Hubert",male,36,0,13.0000,S,1991-02-20
+1,1,"Francatelli, Miss. Laura Mabel",female,30,0,56.9292,C,1991-02-21
+1,1,"Frauenthal, Dr. Henry William",male,50,2,133.6500,S,1991-02-24
+1,1,"Frauenthal, Mr. Isaac Gerald",male,43,1,27.7208,C,1991-02-25
+1,1,"Frolicher, Miss. Hedwig Margaritha",female,22,2,49.5000,C,1991-02-27
+1,1,"Frolicher-Stehli, Mr. Maxmillian",male,60,2,79.2000,C,1991-02-28
+1,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,2,79.2000,C,1991-03-01
+2,0,"Funk, Miss. Annie Clemmer",female,38,0,13.0000,S,1991-03-04
+1,0,"Futrelle, Mr. Jacques Heath",male,37,1,53.1000,S,1991-03-05
+1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,53.1000,S,1991-03-06
+2,0,"Fynney, Mr. Joseph J",male,35,0,26.0000,S,1991-03-07
+2,0,"Gale, Mr. Harry",male,38,1,21.0000,S,1991-03-08
+2,0,"Gale, Mr. Shadrach",male,34,1,21.0000,S,1991-03-09
+3,0,"Gallagher, Mr. Martin",male,25,0,7.7417,Q,1991-03-10
+2,1,"Garside, Miss. Ethel",female,34,0,13.0000,S,1991-03-12
+2,0,"Gaskell, Mr. Alfred",male,16,0,26.0000,S,1991-03-13
+2,0,"Gavey, Mr. Lawrence",male,26,0,10.5000,S,1991-03-14
+1,0,"Gee, Mr. Arthur H",male,47,0,38.5000,S,1991-03-15
+1,1,"Geiger, Miss. Amalie",female,35,0,211.5000,C,1991-03-16
+1,1,"Gibson, Miss. Dorothy Winifred",female,22,1,59.4000,C,1991-03-18
+1,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,1,59.4000,C,1991-03-19
+1,0,"Giglio, Mr. Victor",male,24,0,79.2000,C,1991-03-20
+2,0,"Gilbert, Mr. William",male,47,0,10.5000,S,1991-03-21
+2,0,"Giles, Mr. Edgar",male,21,1,11.5000,S,1991-03-22
+2,0,"Giles, Mr. Frederick Edward",male,21,1,11.5000,S,1991-03-23
+2,0,"Giles, Mr. Ralph",male,24,0,13.5000,S,1991-03-24
+3,0,"Gilinski, Mr. Eliezer",male,22,0,8.0500,S,1991-03-25
+2,0,"Gill, Mr. John William",male,24,0,13.0000,S,1991-03-26
+2,0,"Gillespie, Mr. William Henry",male,34,0,13.0000,S,1991-03-27
+3,1,"Gilnagh, Miss. Katherine ""Katie""",female,16,0,7.7333,Q,1991-03-28
+2,0,"Givard, Mr. Hans Kristensen",male,30,0,13.0000,S,1991-03-29
+1,1,"Goldenberg, Mr. Samuel L",male,49,1,89.1042,C,1991-03-31
+1,0,"Goldschmidt, Mr. George B",male,71,0,34.6542,C,1991-04-02
+3,1,"Goldsmith, Master. Frank John William ""Frankie""",male,9,2,20.5250,S,1991-04-03
+3,0,"Goldsmith, Mr. Frank John",male,33,2,20.5250,S,1991-04-04
+3,0,"Goldsmith, Mr. Nathan",male,41,0,7.8500,S,1991-04-05
+3,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,2,20.5250,S,1991-04-06
+3,0,"Goncalves, Mr. Manuel Estanslas",male,38,0,7.0500,S,1991-04-07
+3,0,"Goodwin, Master. Harold Victor",male,9,7,46.9000,S,1991-04-08
+3,0,"Goodwin, Master. Sidney Leonard",male,1,7,46.9000,S,1991-04-09
+3,0,"Goodwin, Master. William Frederick",male,11,7,46.9000,S,1991-04-10
+3,0,"Goodwin, Miss. Jessie Allis",female,10,7,46.9000,S,1991-04-11
+3,0,"Goodwin, Miss. Lillian Amy",female,16,7,46.9000,S,1991-04-12
+3,0,"Goodwin, Mr. Charles Edward",male,14,7,46.9000,S,1991-04-13
+3,0,"Goodwin, Mr. Charles Frederick",male,40,7,46.9000,S,1991-04-14
+3,0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,7,46.9000,S,1991-04-15
+1,1,"Gracie, Col. Archibald IV",male,53,0,28.5000,C,1991-04-16
+1,1,"Graham, Miss. Margaret Edith",female,19,0,30.0000,S,1991-04-17
+1,0,"Graham, Mr. George Edward",male,38,1,153.4625,S,1991-04-18
+1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,1,153.4625,S,1991-04-19
+3,0,"Green, Mr. George Henry",male,51,0,8.0500,S,1991-04-20
+2,0,"Greenberg, Mr. Samuel",male,52,0,13.0000,S,1991-04-21
+1,1,"Greenfield, Mr. William Bertram",male,23,1,63.3583,C,1991-04-22
+1,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,1,63.3583,C,1991-04-23
+3,0,"Gronnestad, Mr. Daniel Danielsen",male,32,0,8.3625,S,1991-04-24
+1,0,"Guggenheim, Mr. Benjamin",male,46,0,79.2000,C,1991-04-26
+3,0,"Gustafsson, Mr. Alfred Ossian",male,20,0,9.8458,S,1991-04-27
+3,0,"Gustafsson, Mr. Anders Vilhelm",male,37,2,7.9250,S,1991-04-28
+3,0,"Gustafsson, Mr. Johan Birger",male,28,2,7.9250,S,1991-04-29
+3,0,"Gustafsson, Mr. Karl Gideon",male,19,0,7.7750,S,1991-04-30
+3,0,"Haas, Miss. Aloisia",female,24,0,8.8500,S,1991-05-01
+3,0,"Hagardon, Miss. Kate",female,17,0,7.7333,Q,1991-05-02
+3,0,"Hakkarainen, Mr. Pekka Pietari",male,28,1,15.8500,S,1991-05-05
+3,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,1,15.8500,S,1991-05-06
+2,0,"Hale, Mr. Reginald",male,30,0,13.0000,S,1991-05-07
+2,1,"Hamalainen, Mrs. William (Anna)",female,24,2,14.5000,S,1991-05-09
+3,0,"Hampe, Mr. Leon",male,20,0,9.5000,S,1991-05-10
+3,0,"Hansen, Mr. Claus Peter",male,41,2,14.1083,S,1991-05-12
+3,0,"Hansen, Mr. Henrik Juul",male,26,1,7.8542,S,1991-05-13
+3,0,"Hansen, Mr. Henry Damsgaard",male,21,0,7.8542,S,1991-05-14
+3,1,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,1,14.1083,S,1991-05-15
+2,0,"Harbeck, Mr. William H",male,44,0,13.0000,S,1991-05-16
+1,1,"Harder, Mr. George Achilles",male,25,1,55.4417,C,1991-05-17
+1,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,1,55.4417,C,1991-05-18
+3,0,"Harmer, Mr. Abraham (David Lishin)",male,25,0,7.2500,S,1991-05-20
+2,1,"Harper, Miss. Annie Jessie ""Nina""",female,6,1,33.0000,S,1991-05-21
+1,1,"Harper, Mr. Henry Sleeper",male,48,1,76.7292,C,1991-05-22
+1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,76.7292,C,1991-05-23
+2,0,"Harper, Rev. John",male,28,1,33.0000,S,1991-05-24
+2,1,"Harris, Mr. George",male,62,0,10.5000,S,1991-05-26
+1,0,"Harris, Mr. Henry Birkhardt",male,45,1,83.4750,S,1991-05-27
+2,0,"Harris, Mr. Walter",male,30,0,10.5000,S,1991-05-28
+1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,83.4750,S,1991-05-29
+1,0,"Harrison, Mr. William",male,40,0,0.0000,S,1991-05-30
+2,1,"Hart, Miss. Eva Miriam",female,7,2,26.2500,S,1991-05-31
+2,0,"Hart, Mr. Benjamin",male,43,2,26.2500,S,1991-06-01
+2,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,2,26.2500,S,1991-06-03
+1,1,"Hassab, Mr. Hammad",male,27,0,76.7292,C,1991-06-04
+3,0,"Hassan, Mr. Houssein G N",male,11,0,18.7875,C,1991-06-05
+1,1,"Hays, Miss. Margaret Bechstein",female,24,0,83.1583,C,1991-06-07
+1,0,"Hays, Mr. Charles Melville",male,55,2,93.5000,S,1991-06-08
+1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,2,93.5000,S,1991-06-09
+1,0,"Head, Mr. Christopher",male,42,0,42.5000,S,1991-06-10
+3,1,"Hedman, Mr. Oskar Arvid",male,27,0,6.9750,S,1991-06-12
+3,0,"Hegarty, Miss. Hanora ""Nora""",female,18,0,6.7500,Q,1991-06-14
+3,1,"Heikkinen, Miss. Laina",female,26,0,7.9250,S,1991-06-15
+3,0,"Heininen, Miss. Wendla Maria",female,23,0,7.9250,S,1991-06-16
+3,1,"Hellstrom, Miss. Hilda Maria",female,22,0,8.9625,S,1991-06-17
+3,0,"Hendekovic, Mr. Ignjac",male,28,0,7.8958,S,1991-06-18
+3,0,"Henriksson, Miss. Jenny Lovisa",female,28,0,7.7750,S,1991-06-19
+2,1,"Herman, Miss. Alice",female,24,3,65.0000,S,1991-06-21
+2,1,"Herman, Miss. Kate",female,24,3,65.0000,S,1991-06-22
+2,0,"Herman, Mr. Samuel",male,49,3,65.0000,S,1991-06-23
+2,1,"Herman, Mrs. Samuel (Jane Laver)",female,48,3,65.0000,S,1991-06-24
+2,1,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,0,16.0000,S,1991-06-25
+2,0,"Hickman, Mr. Leonard Mark",male,24,2,73.5000,S,1991-06-26
+2,0,"Hickman, Mr. Lewis",male,32,2,73.5000,S,1991-06-27
+2,0,"Hickman, Mr. Stanley George",male,21,2,73.5000,S,1991-06-28
+2,0,"Hiltunen, Miss. Marta",female,18,2,13.0000,S,1991-06-30
+1,0,"Hipkins, Mr. William Edward",male,55,0,50.0000,S,1991-07-01
+1,1,"Hippach, Miss. Jean Gertrude",female,16,1,57.9792,C,1991-07-02
+1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,1,57.9792,C,1991-07-03
+3,1,"Hirvonen, Miss. Hildur E",female,2,1,12.2875,S,1991-07-04
+3,1,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,2,12.2875,S,1991-07-05
+2,1,"Hocking, Miss. Ellen ""Nellie""",female,20,3,23.0000,S,1991-07-06
+2,0,"Hocking, Mr. Richard George",male,23,3,11.5000,S,1991-07-07
+2,0,"Hocking, Mr. Samuel James Metcalfe",male,36,0,13.0000,S,1991-07-08
+2,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,4,23.0000,S,1991-07-09
+2,0,"Hodges, Mr. Henry Price",male,50,0,13.0000,S,1991-07-10
+1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,77.9583,S,1991-07-11
+2,0,"Hold, Mr. Stephen",male,44,1,26.0000,S,1991-07-12
+2,1,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,1,26.0000,S,1991-07-13
+3,0,"Holm, Mr. John Fredrik Alexander",male,43,0,6.4500,S,1991-07-14
+3,0,"Holthen, Mr. Johan Martin",male,28,0,22.5250,S,1991-07-15
+1,0,"Holverson, Mr. Alexander Oskar",male,42,1,52.0000,S,1991-07-16
+1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,1,52.0000,S,1991-07-17
+1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,0,26.5500,C,1991-07-18
+3,1,"Honkanen, Miss. Eliina",female,27,0,7.9250,S,1991-07-19
+2,0,"Hood, Mr. Ambrose Jr",male,21,0,73.5000,S,1991-07-20
+2,1,"Hosono, Mr. Masabumi",male,42,0,13.0000,S,1991-07-22
+2,0,"Howard, Mr. Benjamin",male,63,1,26.0000,S,1991-07-24
+2,0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,1,26.0000,S,1991-07-25
+1,1,"Hoyt, Mr. Frederick Maxfield",male,38,1,90.0000,S,1991-07-26
+1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,1,90.0000,S,1991-07-28
+3,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,0,7.6500,S,1991-07-29
+2,0,"Hunt, Mr. George Henry",male,33,0,12.2750,S,1991-07-30
+3,0,"Ibrahim Shawah, Mr. Yousseff",male,30,0,7.2292,C,1991-08-01
+2,1,"Ilett, Miss. Bertha",female,17,0,10.5000,S,1991-08-03
+3,0,"Ilmakangas, Miss. Ida Livija",female,27,1,7.9250,S,1991-08-05
+3,0,"Ilmakangas, Miss. Pieta Sofia",female,25,1,7.9250,S,1991-08-06
+1,0,"Isham, Miss. Ann Elizabeth",female,50,0,28.7125,C,1991-08-07
+1,1,"Ismay, Mr. Joseph Bruce",male,49,0,0.0000,S,1991-08-08
+2,0,"Jacobsohn, Mr. Sidney Samuel",male,42,1,27.0000,S,1991-08-10
+2,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,3,27.0000,S,1991-08-11
+3,1,"Jalsevac, Mr. Ivan",male,29,0,7.8958,C,1991-08-12
+3,1,"Jansson, Mr. Carl Olof",male,21,0,7.7958,S,1991-08-13
+2,0,"Jarvis, Mr. John Denzil",male,47,0,15.0000,S,1991-08-15
+2,0,"Jefferys, Mr. Clifford Thomas",male,24,2,31.5000,S,1991-08-16
+2,0,"Jefferys, Mr. Ernest Wilfred",male,22,2,31.5000,S,1991-08-17
+2,0,"Jenkin, Mr. Stephen Curnow",male,32,0,10.5000,S,1991-08-18
+3,0,"Jensen, Mr. Hans Peder",male,20,0,7.8542,S,1991-08-19
+3,0,"Jensen, Mr. Niels Peder",male,48,0,7.8542,S,1991-08-20
+3,0,"Jensen, Mr. Svend Lauritz",male,17,1,7.0542,S,1991-08-21
+2,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,0,13.7917,C,1991-08-23
+3,0,"Johanson, Mr. Jakob Alfred",male,34,0,6.4958,S,1991-08-25
+3,1,"Johansson Palmquist, Mr. Oskar Leander",male,26,0,7.7750,S,1991-08-26
+3,0,"Johansson, Mr. Erik",male,22,0,7.7958,S,1991-08-27
+3,0,"Johansson, Mr. Gustaf Joel",male,33,0,8.6542,S,1991-08-28
+3,0,"Johansson, Mr. Karl Johan",male,31,0,7.7750,S,1991-08-29
+3,0,"Johansson, Mr. Nils",male,29,0,7.8542,S,1991-08-30
+3,1,"Johnson, Master. Harold Theodor",male,4,2,11.1333,S,1991-08-31
+3,1,"Johnson, Miss. Eleanor Ileen",female,1,2,11.1333,S,1991-09-01
+3,0,"Johnson, Mr. Alfred",male,49,0,0.0000,S,1991-09-02
+3,0,"Johnson, Mr. Malkolm Joackim",male,33,0,7.7750,S,1991-09-03
+3,0,"Johnson, Mr. William Cahoone Jr",male,19,0,0.0000,S,1991-09-04
+3,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,2,11.1333,S,1991-09-05
+1,0,"Jones, Mr. Charles Cresson",male,46,0,26.0000,S,1991-09-10
+3,0,"Jonkoff, Mr. Lalio",male,23,0,7.8958,S,1991-09-11
+3,1,"Jonsson, Mr. Carl",male,32,0,7.8542,S,1991-09-12
+3,0,"Jonsson, Mr. Nils Hilding",male,27,0,7.8542,S,1991-09-13
+1,0,"Julian, Mr. Henry Forbes",male,50,0,26.0000,S,1991-09-14
+3,0,"Jussila, Miss. Katriina",female,20,1,9.8250,S,1991-09-15
+3,0,"Jussila, Miss. Mari Aina",female,21,1,9.8250,S,1991-09-16
+3,1,"Jussila, Mr. Eiriik",male,32,0,7.9250,S,1991-09-17
+3,0,"Kallio, Mr. Nikolai Erland",male,17,0,7.1250,S,1991-09-18
+3,0,"Kalvik, Mr. Johannes Halvorsen",male,21,0,8.4333,S,1991-09-19
+2,0,"Kantor, Mr. Sinai",male,34,1,26.0000,S,1991-09-20
+2,1,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,1,26.0000,S,1991-09-21
+3,0,"Karaic, Mr. Milan",male,30,0,7.8958,S,1991-09-22
+3,1,"Karlsson, Mr. Einar Gervasius",male,21,0,7.7958,S,1991-09-23
+3,0,"Karlsson, Mr. Julius Konrad Eugen",male,33,0,7.8542,S,1991-09-24
+3,0,"Karlsson, Mr. Nils August",male,22,0,7.5208,S,1991-09-25
+2,0,"Karnes, Mrs. J Frank (Claire Bennett)",female,22,0,21.0000,S,1991-09-26
+3,1,"Karun, Miss. Manca",female,4,1,13.4167,C,1991-09-27
+3,1,"Karun, Mr. Franz",male,39,1,13.4167,C,1991-09-28
+2,0,"Keane, Mr. Daniel",male,35,0,12.3500,Q,1991-10-03
+3,0,"Kelly, Mr. James",male,44,0,8.0500,S,1991-10-09
+2,1,"Kelly, Mrs. Florence ""Fannie""",female,45,0,13.5000,S,1991-10-10
+1,0,"Kent, Mr. Edward Austin",male,58,0,29.7000,C,1991-10-12
+1,0,"Kenyon, Mr. Frederick R",male,41,1,51.8625,S,1991-10-13
+1,0,"Hoyt, Mr. William Fisher",male,30,0,30.6958,C,1991-07-27
+1,1,"Kimball, Mr. Edwin Nelson Jr",male,42,1,52.5542,S,1991-10-20
+1,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,1,52.5542,S,1991-10-21
+3,0,"Kink, Miss. Maria",female,22,2,8.6625,S,1991-10-22
+3,0,"Kink, Mr. Vincenz",male,26,2,8.6625,S,1991-10-23
+3,1,"Kink-Heilmann, Miss. Luise Gretchen",female,4,2,22.0250,S,1991-10-24
+3,1,"Kink-Heilmann, Mr. Anton",male,29,4,22.0250,S,1991-10-25
+3,1,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,2,22.0250,S,1991-10-26
+2,0,"Kirkland, Rev. Charles Leonard",male,57,0,12.3500,Q,1991-10-27
+3,0,"Klasen, Miss. Gertrud Emilia",female,1,2,12.1833,S,1991-10-29
+3,0,"Klasen, Mr. Klas Albin",male,18,2,7.8542,S,1991-10-30
+3,0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,2,12.1833,S,1991-10-31
+3,1,"Krekorian, Mr. Neshan",male,25,0,7.2292,C,1991-11-03
+1,1,"Kreuchen, Miss. Emilie",female,39,0,211.3375,S,1991-11-04
+2,0,"Kvillner, Mr. Johan Henrik Johannesson",male,31,0,10.5000,S,1991-11-05
+2,0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,2,26.0000,S,1991-11-07
+2,0,"Lahtinen, Rev. William",male,30,2,26.0000,S,1991-11-08
+3,0,"Laitinen, Miss. Kristina Sofia",female,37,0,9.5875,S,1991-11-09
+3,1,"Landergren, Miss. Aurora Adelia",female,22,0,7.2500,S,1991-11-14
+3,1,"Lang, Mr. Fang",male,26,0,56.4958,S,1991-11-16
+2,1,"Laroche, Miss. Louise",female,1,3,41.5792,C,1991-11-17
+2,1,"Laroche, Miss. Simonne Marie Anne Andree",female,3,3,41.5792,C,1991-11-18
+2,0,"Laroche, Mr. Joseph Philippe Lemercier",male,25,3,41.5792,C,1991-11-19
+2,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,3,41.5792,C,1991-11-20
+3,0,"Larsson, Mr. August Viktor",male,29,0,9.4833,S,1991-11-21
+3,0,"Larsson, Mr. Bengt Edvin",male,29,0,7.7750,S,1991-11-22
+3,0,"Larsson-Rondberg, Mr. Edvard A",male,22,0,7.7750,S,1991-11-23
+1,1,"Leader, Dr. Alice (Farnham)",female,49,0,25.9292,S,1991-11-24
+3,1,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,0,7.2250,C,1991-11-25
+2,1,"Lehmann, Miss. Bertha",female,17,0,12.0000,C,1991-12-01
+3,0,"Leinonen, Mr. Antti Gustaf",male,32,0,7.9250,S,1991-12-02
+2,1,"Lemore, Mrs. (Amelia Milley)",female,34,0,10.5000,S,1991-12-05
+3,0,"Leonard, Mr. Lionel",male,36,0,0.0000,S,1991-12-08
+1,1,"LeRoy, Miss. Bertha",female,30,0,106.4250,C,1991-12-09
+3,0,"Lester, Mr. James",male,39,0,24.1500,S,1991-12-10
+1,1,"Lesurer, Mr. Gustave J",male,35,0,512.3292,C,1991-12-11
+2,0,"Levy, Mr. Rene Jacques",male,36,0,12.8750,C,1991-12-12
+2,0,"Leyson, Mr. Robert William Norman",male,24,0,10.5000,S,1991-12-14
+3,0,"Lievens, Mr. Rene Aime",male,24,0,9.5000,S,1991-12-15
+3,0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,0,7.7750,S,1991-12-16
+3,0,"Lindblom, Miss. Augusta Charlotta",female,45,0,7.7500,S,1991-12-17
+1,0,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42,0,26.5500,S,1991-12-18
+3,0,"Lindell, Mr. Edvard Bengtsson",male,36,1,15.5500,S,1991-12-19
+3,0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,1,15.5500,S,1991-12-20
+3,1,"Lindqvist, Mr. Eino William",male,20,1,7.9250,S,1991-12-21
+1,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,0,27.7208,C,1991-12-22
+1,1,"Lines, Miss. Mary Conover",female,16,1,39.4000,S,1991-12-24
+1,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,1,39.4000,S,1991-12-25
+3,0,"Ling, Mr. Lee",male,28,0,56.4958,S,1991-12-26
+2,0,"Lingane, Mr. John",male,61,0,12.3500,Q,1991-12-27
+3,0,"Lobb, Mr. William Arthur",male,30,1,16.1000,S,1991-12-29
+3,0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,1,16.1000,S,1991-12-30
+1,0,"Long, Mr. Milton Clyde",male,29,0,30.0000,S,1992-01-01
+1,1,"Longley, Miss. Gretchen Fiske",female,21,0,77.9583,S,1992-01-02
+1,0,"Loring, Mr. Joseph Holland",male,30,0,45.5000,S,1992-01-03
+2,0,"Louch, Mr. Charles Alexander",male,50,1,26.0000,S,1992-01-04
+2,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,1,26.0000,S,1992-01-05
+3,1,"Lulic, Mr. Nikola",male,27,0,8.6625,S,1992-01-07
+3,0,"Lundahl, Mr. Johan Svensson",male,51,0,7.0542,S,1992-01-08
+3,1,"Lundin, Miss. Olga Elida",female,23,0,7.8542,S,1992-01-09
+3,1,"Lundstrom, Mr. Thure Edvin",male,32,0,7.5792,S,1992-01-10
+1,1,"Lurette, Miss. Elise",female,58,0,146.5208,C,1992-01-11
+2,0,"Mack, Mrs. (Mary)",female,57,0,10.5000,S,1992-01-13
+1,1,"Madill, Miss. Georgette Alexandra",female,15,1,211.3375,S,1992-01-16
+3,1,"Madsen, Mr. Fridtjof Arne",male,24,0,7.1417,S,1992-01-17
+3,0,"Maenpaa, Mr. Matti Alexanteri",male,22,0,7.1250,S,1992-01-18
+1,0,"Maguire, Mr. John Edward",male,30,0,26.0000,S,1992-01-19
+1,1,"Maioni, Miss. Roberta",female,16,0,86.5000,S,1992-01-22
+3,0,"Makinen, Mr. Kalle Edvard",male,29,0,7.9250,S,1992-01-24
+2,1,"Mallet, Master. Andre",male,1,2,37.0042,C,1992-01-26
+2,0,"Mallet, Mr. Albert",male,31,2,37.0042,C,1992-01-27
+2,1,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,2,37.0042,C,1992-01-28
+3,0,"Markoff, Mr. Marin",male,35,0,7.8958,C,1992-02-04
+3,0,"Markun, Mr. Johann",male,33,0,7.8958,S,1992-02-05
+1,0,"Marvin, Mr. Daniel Warner",male,19,1,53.1000,S,1992-02-06
+1,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,1,53.1000,S,1992-02-07
+2,0,"Matthews, Mr. William John",male,30,0,13.0000,S,1992-02-10
+2,0,"Maybery, Mr. Frank Hubert",male,40,0,16.0000,S,1992-02-11
+1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,49.5042,C,1992-02-12
+1,0,"McCaffry, Mr. Thomas Francis",male,46,0,75.2417,C,1992-02-13
+1,0,"McCarthy, Mr. Timothy J",male,54,0,51.8625,S,1992-02-15
+2,0,"McCrae, Mr. Arthur Gordon",male,32,0,13.5000,S,1992-02-20
+2,0,"McCrie, Mr. James Matthew",male,30,0,13.0000,S,1992-02-21
+1,1,"McGough, Mr. James Robert",male,36,0,26.2875,S,1992-02-24
+3,1,"McGowan, Miss. Anna ""Annie""",female,15,0,8.0292,Q,1992-02-26
+3,0,"McGowan, Miss. Katherine",female,35,0,7.7500,Q,1992-02-27
+2,0,"McKane, Mr. Peter David",male,46,0,26.0000,S,1992-02-28
+3,0,"McNamee, Mr. Neal",male,24,1,16.1000,S,1992-03-01
+3,0,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,1,16.1000,S,1992-03-02
+2,1,"Mellinger, Miss. Madeleine Violet",female,13,1,19.5000,S,1992-03-06
+2,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,1,19.5000,S,1992-03-07
+2,1,"Mellors, Mr. William John",male,19,0,10.5000,S,1992-03-08
+2,0,"Meyer, Mr. August",male,39,0,13.0000,S,1992-03-11
+1,0,"Meyer, Mr. Edgar Joseph",male,28,1,82.1708,C,1992-03-12
+3,1,"Midtsjo, Mr. Karl Albert",male,21,0,7.7750,S,1992-03-14
+1,0,"Millet, Mr. Francis Davis",male,65,0,26.5500,S,1992-03-16
+2,0,"Milling, Mr. Jacob Christian",male,48,0,13.0000,S,1992-03-17
+1,0,"Minahan, Dr. William Edward",male,44,2,90.0000,Q,1992-03-18
+1,1,"Minahan, Miss. Daisy E",female,33,1,90.0000,Q,1992-03-19
+1,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1,90.0000,Q,1992-03-20
+3,0,"Mineff, Mr. Ivan",male,24,0,7.8958,S,1992-03-21
+3,0,"Minkoff, Mr. Lazar",male,21,0,7.8958,S,1992-03-22
+3,0,"Mionoff, Mr. Stoytcho",male,28,0,7.8958,S,1992-03-23
+2,0,"Mitchell, Mr. Henry Michael",male,70,0,10.5000,S,1992-03-25
+1,1,"Mock, Mr. Philipp Edmund",male,30,1,57.7500,C,1992-03-27
+3,0,"Lyntakoff, Mr. Stanko",male,30,0,7.8958,S,1992-01-12
+3,0,"Moen, Mr. Sigurd Hansen",male,25,0,7.6500,S,1992-03-29
+1,0,"Molson, Mr. Harry Markland",male,55,0,30.5000,S,1992-03-30
+2,0,"Montvila, Rev. Juozas",male,27,0,13.0000,S,1992-03-31
+3,1,"Moor, Master. Meier",male,6,1,12.4750,S,1992-04-01
+3,1,"Moor, Mrs. (Beila)",female,27,1,12.4750,S,1992-04-02
+1,0,"Moore, Mr. Clarence Bloomfield",male,47,0,42.4000,S,1992-04-03
+2,0,"Moraweck, Dr. Ernest",male,54,0,14.0000,S,1992-04-08
+2,0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,0,26.0000,S,1992-04-09
+3,0,"Morley, Mr. William",male,34,0,8.0500,S,1992-04-10
+2,0,"Mudd, Mr. Thomas Charles",male,16,0,10.5000,S,1992-04-18
+3,1,"Mulvihill, Miss. Bertha E",female,24,0,7.7500,Q,1992-04-20
+3,0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,0,7.7500,S,1992-04-25
+2,0,"Myles, Mr. Thomas Francis",male,62,0,9.6875,Q,1992-04-26
+3,0,"Naidenoff, Mr. Penko",male,22,0,7.8958,S,1992-04-27
+3,1,"Najib, Miss. Adele Kiamie ""Jane""",female,15,0,7.2250,C,1992-04-28
+3,1,"Nakid, Miss. Maria (""Mary"")",female,1,2,15.7417,C,1992-04-29
+3,1,"Nakid, Mr. Sahid",male,20,2,15.7417,C,1992-04-30
+3,1,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19,2,15.7417,C,1992-05-01
+3,0,"Nancarrow, Mr. William Henry",male,33,0,8.0500,S,1992-05-02
+2,1,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,30.0708,C,1992-05-06
+1,0,"Natsch, Mr. Charles H",male,37,1,29.7000,C,1992-05-07
+2,1,"Navratil, Master. Edmond Roger",male,2,2,26.0000,S,1992-05-09
+2,1,"Navratil, Master. Michel M",male,3,2,26.0000,S,1992-05-10
+2,0,"Nesson, Mr. Israel",male,26,0,13.0000,S,1992-05-13
+1,1,"Newell, Miss. Madeleine",female,31,1,113.2750,C,1992-05-14
+1,1,"Newell, Miss. Marjorie",female,23,1,113.2750,C,1992-05-15
+1,0,"Newell, Mr. Arthur Webster",male,58,2,113.2750,C,1992-05-16
+1,1,"Newsom, Miss. Helen Monypeny",female,19,2,26.2833,S,1992-05-17
+2,0,"Nicholls, Mr. Joseph Charles",male,19,2,36.7500,S,1992-05-18
+1,0,"Nicholson, Mr. Arthur Ernest",male,64,0,26.0000,S,1992-05-19
+3,1,"Nicola-Yarred, Master. Elias",male,12,1,11.2417,C,1992-05-20
+3,1,"Nicola-Yarred, Miss. Jamila",female,14,1,11.2417,C,1992-05-21
+3,0,"Nieminen, Miss. Manta Josefina",female,29,0,7.9250,S,1992-05-22
+3,0,"Niklasson, Mr. Samuel",male,28,0,8.0500,S,1992-05-23
+3,1,"Nilsson, Miss. Berta Olivia",female,18,0,7.7750,S,1992-05-24
+3,1,"Nilsson, Miss. Helmina Josefina",female,26,0,7.8542,S,1992-05-25
+3,0,"Nilsson, Mr. August Ferdinand",male,21,0,7.8542,S,1992-05-26
+3,0,"Nirva, Mr. Iisakki Antino Aijo",male,41,0,7.1250,S,1992-05-27
+3,1,"Niskanen, Mr. Juha",male,39,0,7.9250,S,1992-05-28
+2,0,"Norman, Mr. Robert Douglas",male,28,0,13.5000,S,1992-05-29
+3,0,"Nosworthy, Mr. Richard Cater",male,21,0,7.8000,S,1992-05-30
+2,1,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20,0,13.8625,C,1992-05-31
+2,1,"Nye, Mrs. (Elizabeth Ramell)",female,29,0,10.5000,S,1992-06-02
+3,1,"Nysten, Miss. Anna Sofia",female,22,0,7.7500,S,1992-06-03
+3,0,"Nysveen, Mr. Johan Hansen",male,61,0,6.2375,S,1992-06-04
+3,0,"Odahl, Mr. Nils Martin",male,23,0,9.2250,S,1992-06-11
+3,1,"Ohman, Miss. Velin",female,22,0,7.7750,S,1992-06-15
+1,1,"Oliva y Ocana, Dona. Fermina",female,39,0,108.9000,C,1992-06-18
+3,1,"Olsen, Master. Artur Karl",male,9,1,3.1708,S,1992-06-19
+3,0,"Olsen, Mr. Henry Margido",male,28,0,22.5250,S,1992-06-20
+3,0,"Olsen, Mr. Karl Siegwart Andreas",male,42,1,8.4042,S,1992-06-21
+3,0,"Olsson, Miss. Elina",female,31,0,7.8542,S,1992-06-23
+3,0,"Olsson, Mr. Nils Johan Goransson",male,28,0,7.8542,S,1992-06-24
+3,1,"Olsson, Mr. Oscar Wilhelm",male,32,0,7.7750,S,1992-06-25
+3,0,"Olsvigen, Mr. Thor Anderson",male,20,0,9.2250,S,1992-06-26
+3,0,"Oreskovic, Miss. Jelka",female,23,0,8.6625,S,1992-06-28
+3,0,"Oreskovic, Miss. Marija",female,20,0,8.6625,S,1992-06-29
+3,0,"Oreskovic, Mr. Luka",male,20,0,8.6625,S,1992-06-30
+3,0,"Osen, Mr. Olaf Elon",male,16,0,9.2167,S,1992-07-01
+3,1,"Osman, Mrs. Mara",female,31,0,8.6833,S,1992-07-02
+1,1,"Ostby, Miss. Helene Ragnhild",female,22,1,61.9792,C,1992-07-03
+1,0,"Ostby, Mr. Engelhart Cornelius",male,65,1,61.9792,C,1992-07-04
+2,0,"Otter, Mr. Richard",male,39,0,13.0000,S,1992-07-06
+2,1,"Oxenham, Mr. Percy Thomas",male,22,0,10.5000,S,1992-07-08
+2,0,"Pain, Dr. Alfred",male,23,0,10.5000,S,1992-07-10
+2,1,"Pallas y Castello, Mr. Emilio",male,29,0,13.8583,C,1992-07-11
+3,0,"Palsson, Master. Gosta Leonard",male,2,4,21.0750,S,1992-07-12
+3,0,"Palsson, Master. Paul Folke",male,6,4,21.0750,S,1992-07-13
+3,0,"Palsson, Miss. Stina Viola",female,3,4,21.0750,S,1992-07-14
+3,0,"Palsson, Miss. Torborg Danira",female,8,4,21.0750,S,1992-07-15
+3,0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,4,21.0750,S,1992-07-16
+3,0,"Panula, Master. Eino Viljami",male,1,5,39.6875,S,1992-07-17
+3,0,"Panula, Master. Juha Niilo",male,7,5,39.6875,S,1992-07-18
+3,0,"Panula, Master. Urho Abraham",male,2,5,39.6875,S,1992-07-19
+3,0,"Panula, Mr. Ernesti Arvid",male,16,5,39.6875,S,1992-07-20
+3,0,"Panula, Mr. Jaako Arnold",male,14,5,39.6875,S,1992-07-21
+3,0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,5,39.6875,S,1992-07-22
+2,0,"Parker, Mr. Clifford Richard",male,28,0,10.5000,S,1992-07-23
+2,1,"Parrish, Mrs. (Lutie Davis)",female,50,1,26.0000,S,1992-07-26
+3,0,"Pasic, Mr. Jakob",male,21,0,8.6625,S,1992-07-28
+3,0,"Patchett, Mr. George",male,19,0,14.5000,S,1992-07-29
+3,0,"Pavlovic, Mr. Stefo",male,32,0,7.8958,S,1992-07-31
+1,0,"Payne, Mr. Vivian Ponsonby",male,23,0,93.5000,S,1992-08-01
+3,0,"Peacock, Miss. Treasteall",female,3,2,13.7750,S,1992-08-03
+3,0,"Peacock, Mrs. Benjamin (Edith Nile)",female,26,2,13.7750,S,1992-08-04
+1,0,"Pears, Mr. Thomas Clinton",male,29,1,66.6000,S,1992-08-06
+1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,66.6000,S,1992-08-07
+3,0,"Pekoniemi, Mr. Edvard",male,21,0,7.9250,S,1992-08-10
+3,0,"Peltomaki, Mr. Nikolai Johannes",male,25,0,7.9250,S,1992-08-11
+1,0,"Penasco y Castellana, Mr. Victor de Satode",male,18,1,108.9000,C,1992-08-12
+1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,108.9000,C,1992-08-13
+2,0,"Pengelly, Mr. Frederick William",male,19,0,10.5000,S,1992-08-14
+3,0,"Perkin, Mr. John Henry",male,22,0,7.2500,S,1992-08-15
+1,1,"Perreault, Miss. Anne",female,30,0,93.5000,S,1992-08-17
+3,1,"Persson, Mr. Ernst Ulrik",male,25,1,7.7750,S,1992-08-18
+2,0,"Peruschitz, Rev. Joseph Maria",male,41,0,13.0000,S,1992-08-19
+3,0,"Petersen, Mr. Marius",male,24,0,8.0500,S,1992-08-24
+3,0,"Petranec, Miss. Matilda",female,28,0,7.8958,S,1992-08-25
+3,0,"Petroff, Mr. Nedelio",male,19,0,7.8958,S,1992-08-26
+3,0,"Petterson, Mr. Johan Emil",male,25,1,7.7750,S,1992-08-28
+3,0,"Pettersson, Miss. Ellen Natalia",female,18,0,7.7750,S,1992-08-29
+1,1,"Peuchen, Major. Arthur Godfrey",male,52,0,30.5000,S,1992-08-30
+2,1,"Phillips, Miss. Alice Frances Louisa",female,21,1,21.0000,S,1992-08-31
+2,1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,26.0000,S,1992-09-01
+2,0,"Phillips, Mr. Escott Robert",male,43,1,21.0000,S,1992-09-02
+3,1,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,8.0500,S,1992-09-03
+2,1,"Pinsky, Mrs. (Rosa)",female,32,0,13.0000,S,1992-09-04
+3,0,"Pokrnic, Mr. Mate",male,17,0,8.6625,S,1992-09-06
+3,0,"Pokrnic, Mr. Tome",male,24,0,8.6625,S,1992-09-07
+2,0,"Ponesell, Mr. Martin",male,34,0,13.0000,S,1992-09-08
+2,1,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,0,12.7375,C,1992-09-09
+1,0,"Porter, Mr. Walter Chamberlain",male,47,0,52.0000,S,1992-09-10
+1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,1,83.1583,C,1992-09-11
+2,0,"Pulbaum, Mr. Franz",male,27,0,15.0333,C,1992-09-12
+2,1,"Quick, Miss. Phyllis May",female,2,2,26.0000,S,1992-09-13
+2,1,"Quick, Miss. Winifred Vera",female,8,2,26.0000,S,1992-09-14
+2,1,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,2,26.0000,S,1992-09-15
+2,0,"Reeves, Mr. David",male,36,0,10.5000,S,1992-09-20
+3,0,"Rekic, Mr. Tido",male,38,0,7.8958,S,1992-09-21
+2,0,"Renouf, Mr. Peter Henry",male,34,1,21.0000,S,1992-09-22
+2,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,3,21.0000,S,1992-09-23
+1,0,"Reuchlin, Jonkheer. John George",male,38,0,0.0000,S,1992-09-24
+2,1,"Reynaldo, Ms. Encarnacion",female,28,0,13.0000,S,1992-09-25
+3,0,"Reynolds, Mr. Harold J",male,21,0,8.0500,S,1992-09-26
+3,0,"Rice, Master. Albert",male,10,5,29.1250,Q,1992-09-28
+3,0,"Rice, Master. Arthur",male,4,5,29.1250,Q,1992-09-29
+3,0,"Rice, Master. Eric",male,7,5,29.1250,Q,1992-09-30
+3,0,"Rice, Master. Eugene",male,2,5,29.1250,Q,1992-10-01
+3,0,"Rice, Master. George Hugh",male,8,5,29.1250,Q,1992-10-02
+3,0,"Rice, Mrs. William (Margaret Norton)",female,39,5,29.1250,Q,1992-10-03
+2,0,"Richard, Mr. Emile",male,23,0,15.0458,C,1992-10-04
+2,1,"Richards, Master. William Rowe",male,3,2,18.7500,S,1992-10-06
+2,1,"Richards, Mrs. Sidney (Emily Hocking)",female,24,5,18.7500,S,1992-10-07
+2,1,"Ridsdale, Miss. Lucy",female,50,0,10.5000,S,1992-10-08
+3,0,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22,0,39.6875,S,1992-10-09
+1,0,"Ringhini, Mr. Sante",male,22,0,135.6333,C,1992-10-10
+3,0,"Rintamaki, Mr. Matti",male,35,0,7.1250,S,1992-10-11
+1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,1,211.3375,S,1992-10-16
+3,0,"Robins, Mr. Alexander A",male,50,1,14.5000,S,1992-10-17
+3,0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,1,14.5000,S,1992-10-18
+1,0,"Roebling, Mr. Washington Augustus II",male,31,0,50.4958,S,1992-10-19
+2,0,"Rogers, Mr. Reginald Harry",male,19,0,10.5000,S,1992-10-20
+1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,0,26.5500,S,1992-10-22
+3,0,"Rosblom, Miss. Salli Helena",female,2,2,20.2125,S,1992-10-25
+3,0,"Rosblom, Mr. Viktor Richard",male,18,2,20.2125,S,1992-10-26
+3,0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,2,20.2125,S,1992-10-27
+1,1,"Rosenbaum, Miss. Edith Louise",female,33,0,27.7208,C,1992-10-28
+1,0,"Rosenshine, Mr. George (""Mr George Thorne"")",male,46,0,79.2000,C,1992-10-29
+1,0,"Ross, Mr. John Hugo",male,36,0,40.1250,C,1992-10-30
+1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,86.5000,S,1992-11-01
+1,0,"Rothschild, Mr. Martin",male,55,1,59.4000,C,1992-11-02
+1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,1,59.4000,C,1992-11-03
+3,0,"Rouse, Mr. Richard Henry",male,50,0,8.0500,S,1992-11-04
+1,0,"Rowe, Mr. Alfred G",male,33,0,26.5500,S,1992-11-05
+2,1,"Rugg, Miss. Emily",female,21,0,10.5000,S,1992-11-06
+3,0,"Rush, Mr. Alfred George John",male,16,0,8.0500,S,1992-11-07
+1,1,"Ryerson, Master. John Borie",male,13,4,262.3750,C,1992-11-10
+1,1,"Ryerson, Miss. Emily Borie",female,18,4,262.3750,C,1992-11-11
+1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,4,262.3750,C,1992-11-12
+1,0,"Ryerson, Mr. Arthur Larned",male,61,4,262.3750,C,1992-11-13
+1,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,4,262.3750,C,1992-11-14
+3,0,"Saad, Mr. Khalil",male,25,0,7.2250,C,1992-11-16
+3,0,"Saad, Mr. Amin",male,30,0,7.2292,C,1992-11-15
+1,1,"Sagesser, Mlle. Emma",female,24,0,69.3000,C,1992-12-03
+3,0,"Salander, Mr. Karl Johan",male,24,0,9.3250,S,1992-12-04
+3,1,"Salkjelsvik, Miss. Anna Kristine",female,21,0,7.6500,S,1992-12-05
+3,0,"Salonen, Mr. Johan Werner",male,39,0,7.9250,S,1992-12-07
+3,1,"Sandstrom, Miss. Beatrice Irene",female,1,2,16.7000,S,1992-12-11
+3,1,"Sandstrom, Miss. Marguerite Rut",female,4,2,16.7000,S,1992-12-12
+3,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,2,16.7000,S,1992-12-13
+3,1,"Sap, Mr. Julius",male,25,0,9.5000,S,1992-12-14
+3,0,"Saundercock, Mr. William Henry",male,20,0,8.0500,S,1992-12-15
+1,1,"Schabert, Mrs. Paul (Emma Mock)",female,35,1,57.7500,C,1992-12-18
+2,0,"Schmidt, Mr. August",male,26,0,13.0000,S,1992-12-19
+2,0,"Sedgwick, Mr. Charles Frederick Waddington",male,25,0,13.0000,S,1992-12-21
+1,1,"Serepeca, Miss. Augusta",female,30,0,31.0000,C,1992-12-22
+1,1,"Seward, Mr. Frederic Kimber",male,34,0,26.5500,S,1992-12-23
+2,0,"Sharp, Mr. Percival James R",male,27,0,26.0000,S,1992-12-24
+3,1,"Sheerlinck, Mr. Jan Baptist",male,29,0,9.5000,S,1992-12-26
+2,1,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,1,26.0000,S,1992-12-28
+1,1,"Shutes, Miss. Elizabeth W",female,40,0,153.4625,S,1992-12-31
+2,1,"Silven, Miss. Lyyli Karoliina",female,18,2,13.0000,S,1993-01-01
+1,1,"Silverthorne, Mr. Spencer Victor",male,35,0,26.2875,S,1993-01-02
+1,0,"Silvey, Mr. William Baird",male,50,1,55.9000,S,1993-01-03
+1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39,1,55.9000,S,1993-01-04
+1,1,"Simonius-Blumer, Col. Oberst Alfons",male,56,0,35.5000,C,1993-01-06
+2,1,"Sincock, Miss. Maude",female,20,0,36.7500,S,1993-01-07
+2,1,"Sinkkonen, Miss. Anna",female,30,0,13.0000,S,1993-01-08
+3,0,"Sirayanian, Mr. Orsen",male,22,0,7.2292,C,1993-01-09
+3,0,"Sivic, Mr. Husein",male,40,0,7.8958,S,1993-01-11
+3,0,"Sivola, Mr. Antti Wilhelm",male,21,0,7.9250,S,1993-01-12
+3,1,"Sjoblom, Miss. Anna Sofia",female,18,0,7.4958,S,1993-01-13
+2,0,"Sjostedt, Mr. Ernst Adolf",male,59,0,13.5000,S,1993-01-14
+3,0,"Skoog, Master. Harald",male,4,5,27.9000,S,1993-01-15
+3,0,"Skoog, Master. Karl Thorsten",male,10,5,27.9000,S,1993-01-16
+3,0,"Skoog, Miss. Mabel",female,9,5,27.9000,S,1993-01-17
+3,0,"Skoog, Miss. Margit Elizabeth",female,2,5,27.9000,S,1993-01-18
+3,0,"Skoog, Mr. Wilhelm",male,40,5,27.9000,S,1993-01-19
+3,0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,5,27.9000,S,1993-01-20
+2,1,"Slayter, Miss. Hilda Mary",female,30,0,12.3500,Q,1993-01-22
+2,0,"Slemen, Mr. Richard James",male,35,0,10.5000,S,1993-01-23
+1,1,"Sloper, Mr. William Thompson",male,28,0,35.5000,S,1993-01-25
+1,0,"Smart, Mr. John Montgomery",male,56,0,26.5500,S,1993-01-26
+2,1,"Smith, Miss. Marion Elsie",female,40,0,13.0000,S,1993-01-28
+1,0,"Smith, Mr. James Clinch",male,56,0,30.6958,C,1993-01-29
+1,0,"Smith, Mr. Lucien Philip",male,24,1,60.0000,S,1993-01-30
+1,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,1,60.0000,S,1993-02-02
+1,1,"Snyder, Mr. John Pillsbury",male,24,1,82.2667,S,1993-02-04
+1,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,82.2667,S,1993-02-05
+2,0,"Sobey, Mr. Samuel James Hayden",male,25,0,13.0000,S,1993-02-06
+3,0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,7.6500,S,1993-02-07
+3,0,"Somerton, Mr. Francis William",male,30,0,8.0500,S,1993-02-08
+1,1,"Spedden, Master. Robert Douglas",male,6,2,134.5000,C,1993-02-10
+1,1,"Spedden, Mr. Frederic Oakley",male,45,2,134.5000,C,1993-02-11
+1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,2,134.5000,C,1993-02-12
+1,0,"Spencer, Mr. William Augustus",male,57,1,146.5208,C,1993-02-13
+3,0,"Spinner, Mr. Henry John",male,32,0,8.0500,S,1993-02-15
+1,1,"Stahelin-Maeglin, Dr. Max",male,32,0,30.5000,C,1993-02-16
+3,0,"Stankovic, Mr. Ivan",male,33,0,8.6625,C,1993-02-18
+3,1,"Stanley, Miss. Amy Zillah Elsie",female,23,0,7.5500,S,1993-02-19
+3,0,"Stanley, Mr. Edward Roland",male,21,0,8.0500,S,1993-02-20
+2,0,"Stanton, Mr. Samuel Ward",male,41,0,15.0458,C,1993-02-21
+1,0,"Stead, Mr. William Thomas",male,62,0,26.5500,S,1993-02-22
+1,1,"Stengel, Mr. Charles Emil Henry",male,54,1,55.4417,C,1993-02-23
+1,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,1,55.4417,C,1993-02-24
+1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,78.2667,C,1993-02-25
+2,0,"Stokes, Mr. Philip Joseph",male,25,0,10.5000,S,1993-02-27
+3,0,"Stoytcheff, Mr. Ilia",male,19,0,7.8958,S,1993-03-02
+3,0,"Strandberg, Miss. Ida Sofia",female,22,0,9.8375,S,1993-03-03
+3,1,"Stranden, Mr. Juho",male,31,0,7.9250,S,1993-03-04
+1,0,"Straus, Mr. Isidor",male,67,1,221.7792,S,1993-03-05
+1,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,1,221.7792,S,1993-03-06
+3,0,"Strilic, Mr. Ivan",male,27,0,8.6625,S,1993-03-07
+3,0,"Strom, Miss. Telma Matilda",female,2,1,10.4625,S,1993-03-08
+3,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,2,10.4625,S,1993-03-09
+3,1,"Sunderland, Mr. Victor Francis",male,16,0,8.0500,S,1993-03-10
+3,1,"Sundman, Mr. Johan Julian",male,44,0,7.9250,S,1993-03-11
+3,0,"Sutehall, Mr. Henry Jr",male,25,0,7.0500,S,1993-03-12
+1,0,"Sutton, Mr. Frederick",male,61,0,32.3208,S,1993-03-13
+3,0,"Svensson, Mr. Johan",male,74,0,7.7750,S,1993-03-14
+3,1,"Svensson, Mr. Johan Cervin",male,14,0,9.2250,S,1993-03-15
+3,0,"Svensson, Mr. Olof",male,24,0,7.7958,S,1993-03-16
+2,0,"Sweet, Mr. George Frederick",male,14,0,65.0000,S,1993-03-18
+1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,0,25.9292,S,1993-03-19
+1,1,"Taussig, Miss. Ruth",female,18,2,79.6500,S,1993-03-20
+1,0,"Taussig, Mr. Emil",male,52,2,79.6500,S,1993-03-21
+1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,2,79.6500,S,1993-03-22
+1,1,"Taylor, Mr. Elmer Zebley",male,48,1,52.0000,S,1993-03-23
+3,1,"Tenglin, Mr. Gunnar Isidor",male,25,0,7.7958,S,1993-03-25
+1,0,"Thayer, Mr. John Borland",male,49,2,110.8833,C,1993-03-26
+1,1,"Thayer, Mr. John Borland Jr",male,17,2,110.8833,C,1993-03-27
+1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,2,110.8833,C,1993-03-28
+3,0,"Theobald, Mr. Thomas Leonard",male,34,0,8.0500,S,1993-03-29
+3,1,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16,2,8.5167,C,1993-04-03
+3,0,"Tikkanen, Mr. Juho",male,32,0,7.9250,S,1993-04-08
+2,1,"Toomey, Miss. Ellen",female,50,0,10.5000,S,1993-04-12
+3,0,"Torber, Mr. Ernst William",male,44,0,8.0500,S,1993-04-13
+3,1,"Tornquist, Mr. William Henry",male,25,0,0.0000,S,1993-04-15
+3,1,"Touma, Master. Georges Youssef",male,7,2,15.2458,C,1993-04-17
+3,1,"Touma, Miss. Maria Youssef",female,9,2,15.2458,C,1993-04-18
+3,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,2,15.2458,C,1993-04-19
+2,0,"Troupiansky, Mr. Moses Aaron",male,23,0,13.0000,S,1993-04-20
+2,1,"Trout, Mrs. William H (Jessie L)",female,28,0,12.6500,S,1993-04-21
+2,1,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,0,10.5000,S,1993-04-22
+1,1,"Tucker, Mr. Gilbert Milligan Jr",male,31,0,28.5375,C,1993-04-23
+3,0,"Turcin, Mr. Stjepan",male,36,0,7.8958,S,1993-04-24
+3,1,"Turja, Miss. Anna Sofia",female,18,0,9.8417,S,1993-04-25
+3,1,"Turkula, Mrs. (Hedwig)",female,63,0,9.5875,S,1993-04-26
+2,0,"Turpin, Mr. William John Robert",male,29,1,21.0000,S,1993-04-27
+2,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,1,21.0000,S,1993-04-28
+1,0,"Uruchurtu, Don. Manuel E",male,40,0,27.7208,C,1993-04-29
+1,0,"Van der hoef, Mr. Wyckoff",male,61,0,33.5000,S,1993-05-03
+3,0,"Van Impe, Miss. Catharina",female,10,2,24.1500,S,1993-05-04
+3,0,"Van Impe, Mr. Jean Baptiste",male,36,2,24.1500,S,1993-05-05
+3,0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,2,24.1500,S,1993-05-06
+3,0,"Vande Velde, Mr. Johannes Joseph",male,33,0,9.5000,S,1993-05-08
+3,0,"Vande Walle, Mr. Nestor Cyriel",male,28,0,9.5000,S,1993-05-09
+3,0,"Vanden Steen, Mr. Leo Peter",male,28,0,9.5000,S,1993-05-10
+3,0,"Vander Cruyssen, Mr. Victor",male,47,0,9.0000,S,1993-05-11
+3,0,"Vander Planke, Miss. Augusta Maria",female,18,2,18.0000,S,1993-05-12
+3,0,"Vander Planke, Mr. Julius",male,31,3,18.0000,S,1993-05-13
+3,0,"Vander Planke, Mr. Leo Edmondus",male,16,2,18.0000,S,1993-05-14
+3,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,18.0000,S,1993-05-15
+1,0,"Stewart, Mr. Albert A",male,30,0,27.7208,C,1993-02-26
+1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,30,1,52.0000,S,1993-03-24
+3,1,"Thomas, Master. Assad Alexander",male,30,1,8.5167,C,1993-03-30
+3,1,"Vartanian, Mr. David",male,22,0,7.2250,C,1993-05-16
+2,0,"Veal, Mr. James",male,40,0,13.0000,S,1993-05-17
+3,0,"Vendel, Mr. Olof Edvin",male,20,0,7.8542,S,1993-05-18
+3,0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,7.8542,S,1993-05-19
+3,0,"Vovk, Mr. Janko",male,22,0,7.8958,S,1993-05-20
+3,0,"Waelens, Mr. Achille",male,22,0,9.0000,S,1993-05-21
+2,1,"Walcroft, Miss. Nellie",female,31,0,21.0000,S,1993-05-22
+1,0,"Walker, Mr. William Anderson",male,47,0,34.0208,S,1993-05-23
+1,1,"Ward, Miss. Anna",female,35,0,512.3292,C,1993-05-24
+2,0,"Ware, Mr. John James",male,30,1,21.0000,S,1993-05-26
+2,0,"Ware, Mr. William Jeffery",male,23,1,10.5000,S,1993-05-27
+2,1,"Ware, Mrs. John James (Florence Louise Long)",female,31,0,21.0000,S,1993-05-28
+1,0,"Warren, Mr. Frank Manley",male,64,1,75.2500,C,1993-05-29
+1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,75.2500,C,1993-05-30
+2,1,"Watt, Miss. Bertha J",female,12,0,15.7500,S,1993-06-01
+2,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,0,15.7500,S,1993-06-02
+1,0,"Weir, Col. John",male,60,0,26.5500,S,1993-06-04
+2,0,"Weisz, Mr. Leopold",male,27,1,26.0000,S,1993-06-05
+2,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,1,26.0000,S,1993-06-06
+2,1,"Wells, Master. Ralph Lester",male,2,2,23.0000,S,1993-06-07
+2,1,"Wells, Miss. Joan",female,4,2,23.0000,S,1993-06-08
+2,1,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29,2,23.0000,S,1993-06-09
+2,1,"West, Miss. Constance Mirium",female,5,3,27.7500,S,1993-06-12
+2,0,"West, Mr. Edwy Arthur",male,36,3,27.7500,S,1993-06-13
+2,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,3,27.7500,S,1993-06-14
+3,1,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,0,7.2292,C,1993-06-15
+2,0,"Wheadon, Mr. Edward H",male,66,0,10.5000,S,1993-06-16
+1,0,"White, Mr. Percival Wayland",male,54,1,77.2875,S,1993-06-18
+1,0,"White, Mr. Richard Frasar",male,21,1,77.2875,S,1993-06-19
+1,1,"White, Mrs. John Stuart (Ella Holmes)",female,55,0,135.6333,C,1993-06-20
+1,1,"Wick, Miss. Mary Natalie",female,31,2,164.8667,S,1993-06-21
+1,0,"Wick, Mr. George Dennick",male,57,2,164.8667,S,1993-06-22
+1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,2,164.8667,S,1993-06-23
+3,0,"Widegren, Mr. Carl/Charles Peter",male,51,0,7.7500,S,1993-06-24
+1,0,"Widener, Mr. George Dunton",male,50,2,211.5000,C,1993-06-25
+1,0,"Widener, Mr. Harry Elkins",male,27,2,211.5000,C,1993-06-26
+1,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,2,211.5000,C,1993-06-27
+3,0,"Wiklund, Mr. Jakob Alfred",male,18,1,6.4958,S,1993-06-28
+3,0,"Wiklund, Mr. Karl Johan",male,21,1,6.4958,S,1993-06-29
+2,1,"Wilhelms, Mr. Charles",male,31,0,13.0000,S,1993-06-30
+3,1,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,7.0000,S,1993-07-01
+1,1,"Willard, Miss. Constance",female,21,0,26.5500,S,1993-07-02
+1,0,"Williams, Mr. Charles Duane",male,51,1,61.3792,C,1993-07-03
+1,1,"Williams, Mr. Richard Norris II",male,21,1,61.3792,C,1993-07-06
+1,1,"Wilson, Miss. Helen Alice",female,31,0,134.5000,C,1993-07-08
+3,0,"Windelov, Mr. Einar",male,21,0,7.2500,S,1993-07-09
+3,0,"Wirz, Mr. Albert",male,27,0,8.6625,S,1993-07-10
+3,0,"Wittevrongel, Mr. Camille",male,36,0,9.5000,S,1993-07-11
+2,1,"Wright, Miss. Marion",female,26,0,13.5000,S,1993-07-13
+1,0,"Wright, Mr. George",male,62,0,26.5500,S,1993-07-14
+3,0,"Yasbeck, Mr. Antoni",male,27,1,14.4542,C,1993-07-15
+3,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,1,14.4542,C,1993-07-16
+1,1,"Young, Miss. Marie Grice",female,36,0,135.6333,C,1993-07-17
+2,0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,0,13.0000,S,1993-07-19
+3,0,"Zakarian, Mr. Ortin",male,27,0,7.2250,C,1993-07-22
+3,0,"Zimmerman, Mr. Leo",male,29,0,7.8750,S,1993-07-23
+3,0,"Ware, Mr. Frederick",male,30,0,8.0500,S,1993-05-25
+3,1,"Aks, Master. Philip Frank",male,30,1,9.3500,S,1990-01-14
+1,1,"Allison, Master. Hudson Trevor",male,30,3,151.5500,S,1990-01-24
+3,0,"Betros, Master. Seman",male,30,0,7.2292,C,1990-04-29
+3,0,"Boulos, Mr. Hanna",male,30,0,7.2250,C,1990-05-20
+3,0,"Boulos, Mrs. Joseph (Sultana)",female,30,2,15.2458,C,1990-05-21
+3,0,"Bourke, Miss. Mary",female,30,2,7.7500,Q,1990-05-22
+1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,30,0,26.5500,S,1990-05-31
+1,0,"Brewe, Dr. Arthur Jackson",male,30,0,39.6000,C,1990-06-06
+1,0,"Cairns, Mr. Alexander",male,30,0,31.0000,S,1990-07-02
+2,0,"Campbell, Mr. William",male,30,0,0.0000,S,1990-07-10
+3,0,"Caram, Mr. Joseph",male,30,1,14.4583,C,1990-07-15
+3,0,"Caram, Mrs. Joseph (Maria Elias)",female,30,1,14.4583,C,1990-07-16
+1,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,30,0,27.7208,C,1990-08-04
+1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,30,1,55.0000,S,1990-08-19
+1,0,"Chisholm, Mr. Roderick Robert Crispin",male,30,0,0.0000,S,1990-08-21
+2,0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,30,0,21.0000,S,1990-09-28
+1,0,"Crafton, Mr. John Bertram",male,30,0,26.5500,S,1990-10-06
+2,0,"Cunningham, Mr. Alfred Fleming",male,30,0,0.0000,S,1990-10-16
+3,0,"Danbom, Master. Gilbert Sigvard Emanuel",male,30,2,14.4000,S,1990-10-24
+3,0,"Davison, Mr. Thomas Henry",male,30,1,16.1000,S,1990-11-10
+3,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,30,1,16.1000,S,1990-11-11
+3,0,"Denkoff, Mr. Mitto",male,30,0,7.8958,S,1990-11-26
+3,0,"Doharr, Mr. Tannous",male,30,0,7.2292,C,1990-12-09
+3,0,"Elias, Mr. Dibo",male,30,0,7.2250,C,1991-01-08
+3,0,"Emir, Mr. Farred Chehab",male,30,0,7.2250,C,1991-01-14
+1,0,"Farthing, Mr. John",male,30,0,221.7792,S,1991-01-22
+3,1,"Finoli, Mr. Luigi",male,30,0,7.0500,S,1991-01-26
+1,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,30,0,31.6833,S,1991-01-28
+3,0,"Fleming, Miss. Honora",female,30,0,7.7500,Q,1991-01-29
+1,1,"Fleming, Miss. Margaret",female,30,0,110.8833,C,1991-01-30
+3,0,"Flynn, Mr. James",male,30,0,7.7500,Q,1991-01-31
+3,0,"Flynn, Mr. John",male,30,0,6.9500,Q,1991-02-01
+3,0,"Foley, Mr. William",male,30,0,7.7500,Q,1991-02-04
+3,1,"Foo, Mr. Choong",male,30,0,56.4958,S,1991-02-05
+3,0,"Ford, Mr. Arthur",male,30,0,8.0500,S,1991-02-08
+3,0,"Fox, Mr. Patrick",male,30,0,7.7500,Q,1991-02-19
+3,0,"Franklin, Mr. Charles (Charles Fardon)",male,30,0,7.2500,S,1991-02-22
+1,0,"Franklin, Mr. Thomas Parham",male,30,0,26.5500,S,1991-02-23
+1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,30,1,133.6500,S,1991-02-26
+2,0,"Frost, Mr. Anthony Wood ""Archie""",male,30,0,0.0000,S,1991-03-02
+1,0,"Fry, Mr. Richard",male,30,0,0.0000,S,1991-03-03
+3,0,"Garfirth, Mr. John",male,30,0,14.5000,S,1991-03-11
+3,0,"Gheorgheff, Mr. Stanio",male,30,0,7.8958,C,1991-03-17
+3,1,"Glynn, Miss. Mary Agatha",female,30,0,7.7500,Q,1991-03-30
+1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,30,1,89.1042,C,1991-04-01
+3,0,"Guest, Mr. Robert",male,30,0,8.0500,S,1991-04-25
+3,0,"Hagland, Mr. Ingvald Olai Olsen",male,30,1,19.9667,S,1991-05-03
+3,0,"Hagland, Mr. Konrad Mathias Reiersen",male,30,1,19.9667,S,1991-05-04
+3,0,"Harknett, Miss. Alice Phoebe",female,30,0,7.5500,S,1991-05-19
+1,0,"Harrington, Mr. Charles H",male,30,0,42.4000,S,1991-05-25
+3,0,"Hart, Mr. Henry",male,30,0,6.8583,Q,1991-06-02
+1,1,"Hawksford, Mr. Walter James",male,30,0,30.0000,S,1991-06-06
+3,1,"Healy, Miss. Hanora ""Nora""",female,30,0,7.7500,Q,1991-06-11
+3,1,"Hee, Mr. Ling",male,30,0,56.4958,S,1991-06-13
+3,0,"Henry, Miss. Delia",female,30,0,7.7500,Q,1991-06-20
+1,0,"Hilliard, Mr. Herbert Henry",male,30,0,51.8625,S,1991-06-29
+3,0,"Meo, Mr. Alfonzo",male,30,0,8.0500,S,1992-03-09
+2,0,"Nasser, Mr. Nicholas",male,30,1,30.0708,C,1992-05-05
+2,0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,30,2,26.0000,S,1992-05-11
+3,0,"Horgan, Mr. John",male,30,0,7.7500,Q,1991-07-21
+3,1,"Howard, Miss. May Elizabeth",female,30,0,8.0500,S,1991-07-23
+3,1,"Hyman, Mr. Abraham",male,30,0,7.8875,S,1991-07-31
+3,0,"Ilieff, Mr. Ylio",male,30,0,7.8958,S,1991-08-04
+3,0,"Ivanoff, Mr. Kanio",male,30,0,7.8958,S,1991-08-09
+3,0,"Jardin, Mr. Jose Neto",male,30,0,7.0500,S,1991-08-14
+3,1,"Jermyn, Miss. Annie",female,30,0,7.7500,Q,1991-08-22
+3,1,"Johannesen-Bratthammer, Mr. Bernt",male,30,0,8.1125,S,1991-08-24
+3,0,"Johnston, Master. William Arthur ""Willie""",male,30,3,23.4500,S,1991-09-06
+3,0,"Johnston, Miss. Catherine Helen ""Carrie""",female,30,3,23.4500,S,1991-09-07
+3,0,"Johnston, Mr. Andrew G",male,30,3,23.4500,S,1991-09-08
+3,0,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,30,3,23.4500,S,1991-09-09
+3,0,"Kassem, Mr. Fared",male,30,0,7.2292,C,1991-09-29
+2,1,"Keane, Miss. Nora A",female,30,0,12.3500,Q,1991-10-01
+3,0,"Keane, Mr. Andrew ""Andy""",male,30,0,7.7500,Q,1991-10-02
+3,0,"Keefe, Mr. Arthur",male,30,0,7.2500,S,1991-10-04
+3,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,30,0,7.7500,Q,1991-10-06
+3,1,"Kelly, Miss. Mary",female,30,0,7.7500,Q,1991-10-07
+3,1,"Kennedy, Mr. John",male,30,0,7.7500,Q,1991-10-11
+1,1,"Kenyon, Mrs. Frederick R (Marion)",female,30,1,51.8625,S,1991-10-14
+3,0,"Khalil, Mr. Betros",male,30,1,14.4542,C,1991-10-15
+3,0,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,30,1,14.4542,C,1991-10-16
+3,0,"Kiernan, Mr. John",male,30,1,7.7500,Q,1991-10-17
+3,0,"Kiernan, Mr. Philip",male,30,1,7.7500,Q,1991-10-18
+3,0,"Kilgannon, Mr. Thomas J",male,30,0,7.7375,Q,1991-10-19
+1,0,"Klaber, Mr. Herman",male,30,0,26.5500,S,1991-10-28
+2,0,"Knight, Mr. Robert J",male,30,0,0.0000,S,1991-11-01
+3,0,"Kraeff, Mr. Theodor",male,30,0,7.8958,C,1991-11-02
+3,0,"Lahoud, Mr. Sarkis",male,30,0,7.2250,C,1991-11-06
+3,0,"Laleff, Mr. Kristo",male,30,0,7.8958,S,1991-11-10
+3,1,"Lam, Mr. Ali",male,30,0,56.4958,S,1991-11-11
+3,0,"Lam, Mr. Len",male,30,0,56.4958,S,1991-11-12
+2,0,"Lamb, Mr. John Joseph",male,30,0,10.7083,Q,1991-11-13
+3,0,"Lane, Mr. Patrick",male,30,0,7.7500,Q,1991-11-15
+3,0,"Lefebre, Master. Henry Forbes",male,30,4,25.4667,S,1991-11-26
+3,0,"Lefebre, Miss. Ida",female,30,4,25.4667,S,1991-11-27
+3,0,"Lefebre, Miss. Jeannie",female,30,4,25.4667,S,1991-11-28
+3,0,"Lefebre, Miss. Mathilde",female,30,4,25.4667,S,1991-11-29
+3,0,"Lefebre, Mrs. Frank (Frances)",female,30,4,25.4667,S,1991-11-30
+2,1,"Leitch, Miss. Jessie Wills",female,30,0,33.0000,S,1991-12-03
+3,0,"Lennon, Miss. Mary",female,30,1,15.5000,Q,1991-12-06
+3,0,"Lennon, Mr. Denis",male,30,1,15.5000,Q,1991-12-07
+1,0,"Lewy, Mr. Ervin G",male,30,0,27.7208,C,1991-12-13
+3,0,"Linehan, Mr. Michael",male,30,0,7.8792,Q,1991-12-23
+3,0,"Lithman, Mr. Simon",male,30,0,7.5500,S,1991-12-28
+3,0,"Lockyer, Mr. Edward",male,30,0,7.8792,S,1991-12-31
+3,0,"MacKay, Mr. George William",male,30,0,7.5500,S,1992-01-14
+3,1,"Madigan, Miss. Margaret ""Maggie""",female,30,0,7.7500,Q,1992-01-15
+3,0,"Mahon, Miss. Bridget Delia",female,30,0,7.8792,Q,1992-01-20
+3,0,"Mahon, Mr. John",male,30,0,7.7500,Q,1992-01-21
+3,0,"Maisner, Mr. Simon",male,30,0,8.0500,S,1992-01-23
+2,0,"Malachard, Mr. Noel",male,30,0,15.0458,C,1992-01-25
+3,1,"Mamee, Mr. Hanna",male,30,0,7.2292,C,1992-01-29
+2,0,"Mangiavacchi, Mr. Serafino Emilio",male,30,0,15.5792,C,1992-01-31
+3,1,"Mannion, Miss. Margareth",female,30,0,7.7375,Q,1992-02-01
+3,0,"Mardirosian, Mr. Sarkis",male,30,0,7.2292,C,1992-02-02
+1,1,"Marechal, Mr. Pierre",male,30,0,29.7000,C,1992-02-03
+3,1,"Masselmani, Mrs. Fatima",female,30,0,7.2250,C,1992-02-08
+3,0,"Matinoff, Mr. Nicola",male,30,0,7.8958,C,1992-02-09
+3,1,"McCarthy, Miss. Catherine ""Katie""",female,30,0,7.7500,Q,1992-02-14
+3,1,"McCormack, Mr. Thomas Joseph",male,30,0,7.7500,Q,1992-02-16
+3,1,"McCoy, Miss. Agnes",female,30,2,23.2500,Q,1992-02-17
+3,1,"McCoy, Miss. Alicia",female,30,2,23.2500,Q,1992-02-18
+3,1,"McCoy, Mr. Bernard",male,30,2,23.2500,Q,1992-02-19
+3,1,"McDermott, Miss. Brigdet Delia",female,30,0,7.7875,Q,1992-02-22
+3,0,"McEvoy, Mr. Michael",male,30,0,15.5000,Q,1992-02-23
+3,1,"McGovern, Miss. Mary",female,30,0,7.8792,Q,1992-02-25
+3,0,"McMahon, Mr. Martin",male,30,0,7.7500,Q,1992-02-29
+3,0,"McNeill, Miss. Bridget",female,30,0,7.7500,Q,1992-03-03
+3,0,"Meanwell, Miss. (Marion Ogden)",female,30,0,8.0500,S,1992-03-04
+3,0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,30,0,8.0500,S,1992-03-05
+3,0,"Mernagh, Mr. Robert",male,30,0,7.7500,Q,1992-03-10
+1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,30,1,82.1708,C,1992-03-13
+3,0,"Miles, Mr. Frank",male,30,0,8.0500,S,1992-03-15
+3,0,"Mitkoff, Mr. Mito",male,30,0,7.8958,S,1992-03-26
+3,1,"Mockler, Miss. Helen Mary ""Ellie""",female,30,0,7.8792,Q,1992-03-28
+3,0,"Moore, Mr. Leonard Charles",male,30,0,8.0500,S,1992-04-04
+3,1,"Moran, Miss. Bertha",female,30,1,24.1500,Q,1992-04-05
+3,0,"Moran, Mr. Daniel J",male,30,1,24.1500,Q,1992-04-06
+3,0,"Moran, Mr. James",male,30,0,8.4583,Q,1992-04-07
+3,0,"Morrow, Mr. Thomas Rowan",male,30,0,7.7500,Q,1992-04-11
+3,1,"Moss, Mr. Albert Johan",male,30,0,7.7750,S,1992-04-12
+3,1,"Moubarek, Master. Gerios",male,30,2,15.2458,C,1992-04-13
+3,1,"Moubarek, Master. Halim Gonios (""William George"")",male,30,2,15.2458,C,1992-04-14
+3,1,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,30,2,15.2458,C,1992-04-15
+3,1,"Moussa, Mrs. (Mantoura Boulos)",female,30,0,7.2292,C,1992-04-16
+3,0,"Moutal, Mr. Rahamin Haim",male,30,0,8.0500,S,1992-04-17
+3,1,"Mullens, Miss. Katherine ""Katie""",female,30,0,7.7333,Q,1992-04-19
+3,0,"Murdlin, Mr. Joseph",male,30,0,8.0500,S,1992-04-21
+3,1,"Murphy, Miss. Katherine ""Kate""",female,30,1,15.5000,Q,1992-04-22
+3,1,"Murphy, Miss. Margaret Jane",female,30,1,15.5000,Q,1992-04-23
+3,1,"Murphy, Miss. Nora",female,30,0,15.5000,Q,1992-04-24
+3,0,"Nankoff, Mr. Minko",male,30,0,7.8958,S,1992-05-03
+3,0,"Nasr, Mr. Mustafa",male,30,0,7.2292,C,1992-05-04
+3,0,"Naughton, Miss. Hannah",female,30,0,7.7500,Q,1992-05-08
+3,0,"Nenkoff, Mr. Christo",male,30,0,7.8958,S,1992-05-12
+3,0,"O'Brien, Mr. Thomas",male,30,1,15.5000,Q,1992-06-05
+3,0,"O'Brien, Mr. Timothy",male,30,0,7.8292,Q,1992-06-06
+3,1,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,30,1,15.5000,Q,1992-06-07
+3,0,"O'Connell, Mr. Patrick D",male,30,0,7.7333,Q,1992-06-08
+3,0,"O'Connor, Mr. Maurice",male,30,0,7.7500,Q,1992-06-09
+3,0,"O'Connor, Mr. Patrick",male,30,0,7.7500,Q,1992-06-10
+3,0,"O'Donoghue, Ms. Bridget",female,30,0,7.7500,Q,1992-06-12
+3,1,"O'Driscoll, Miss. Bridget",female,30,0,7.7500,Q,1992-06-13
+3,1,"O'Dwyer, Miss. Ellen ""Nellie""",female,30,0,7.8792,Q,1992-06-14
+3,1,"O'Keefe, Mr. Patrick",male,30,0,7.7500,Q,1992-06-16
+3,1,"O'Leary, Miss. Hanora ""Norah""",female,30,0,7.8292,Q,1992-06-17
+3,0,"Olsen, Mr. Ole Martin",male,30,0,7.3125,S,1992-06-22
+1,1,"Omont, Mr. Alfred Fernand",male,30,0,25.7417,C,1992-06-27
+3,0,"O'Sullivan, Miss. Bridget Mary",female,30,0,7.6292,Q,1992-07-05
+2,1,"Padro y Manent, Mr. Julian",male,30,0,13.8625,C,1992-07-09
+2,0,"Parkes, Mr. Francis ""Frank""",male,30,0,0.0000,S,1992-07-24
+1,0,"Parr, Mr. William Henry Marsh",male,30,0,0.0000,S,1992-07-25
+3,0,"Paulner, Mr. Uscher",male,30,0,8.7125,C,1992-07-30
+3,0,"Pearce, Mr. Ernest",male,30,0,7.0000,S,1992-08-05
+3,0,"Pedersen, Mr. Olaf",male,30,0,7.7750,S,1992-08-08
+3,0,"Peduzzi, Mr. Joseph",male,30,0,8.0500,S,1992-08-09
+2,0,"Pernot, Mr. Rene",male,30,0,15.0500,C,1992-08-16
+3,1,"Peter, Master. Michael J",male,30,2,22.3583,C,1992-08-20
+3,1,"Peter, Miss. Anna",female,30,2,22.3583,C,1992-08-21
+3,1,"Peter, Mrs. Catherine (Catherine Rizk)",female,30,2,22.3583,C,1992-08-22
+3,0,"Peters, Miss. Katie",female,30,0,8.1375,Q,1992-08-23
+3,0,"Petroff, Mr. Pastcho (""Pentcho"")",male,30,0,7.8958,S,1992-08-27
+3,0,"Plotcharsky, Mr. Vasil",male,30,0,7.8958,S,1992-09-05
+3,0,"Radeff, Mr. Alexander",male,30,0,7.8958,S,1992-09-16
+3,0,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,30,0,8.1125,S,1992-09-17
+3,0,"Razi, Mr. Raihed",male,30,0,7.2292,C,1992-09-18
+3,0,"Reed, Mr. James George",male,30,0,7.2500,S,1992-09-19
+1,1,"Rheims, Mr. George Alexander Lucien",male,30,0,39.6000,S,1992-09-27
+3,1,"Riordan, Miss. Johanna ""Hannah""",female,30,0,7.7208,Q,1992-10-12
+3,0,"Risien, Mr. Samuel Beard",male,30,0,14.5000,S,1992-10-13
+3,0,"Risien, Mrs. Samuel (Emma)",female,30,0,14.5000,S,1992-10-14
+1,0,"Robbins, Mr. Victor",male,30,0,227.5250,C,1992-10-15
+3,0,"Rogers, Mr. William John",male,30,0,8.0500,S,1992-10-21
+3,0,"Rommetvedt, Mr. Knud Paust",male,30,0,7.7750,S,1992-10-23
+1,0,"Rood, Mr. Hugh Roscoe",male,30,0,50.0000,S,1992-10-24
+3,1,"Roth, Miss. Sarah A",female,30,0,8.0500,S,1992-10-31
+3,1,"Ryan, Mr. Edward",male,30,0,7.7500,Q,1992-11-08
+3,0,"Ryan, Mr. Patrick",male,30,0,24.1500,Q,1992-11-09
+3,0,"Saade, Mr. Jean Nassr",male,30,0,7.2250,C,1992-11-17
+1,1,"Saalfeld, Mr. Adolphe",male,30,0,30.5000,S,1992-11-18
+3,0,"Sadlier, Mr. Matthew",male,30,0,7.7292,Q,1992-11-19
+3,0,"Sadowitz, Mr. Harry",male,30,0,7.5750,S,1992-11-20
+3,0,"Sage, Master. Thomas Henry",male,30,10,69.5500,S,1992-11-22
+3,0,"Sage, Miss. Ada",female,30,10,69.5500,S,1992-11-24
+3,0,"Sage, Miss. Constance Gladys",female,30,10,69.5500,S,1992-11-25
+3,0,"Sage, Miss. Dorothy Edith ""Dolly""",female,30,10,69.5500,S,1992-11-26
+3,0,"Sage, Miss. Stella Anna",female,30,10,69.5500,S,1992-11-27
+3,0,"Sage, Mr. Douglas Bullen",male,30,10,69.5500,S,1992-11-28
+3,0,"Sage, Mr. Frederick",male,30,10,69.5500,S,1992-11-29
+3,0,"Sage, Mr. George John Jr",male,30,10,69.5500,S,1992-11-30
+3,0,"Sage, Mr. John George",male,30,10,69.5500,S,1992-12-01
+3,0,"Sage, Mrs. John (Annie Bullen)",female,30,10,69.5500,S,1992-12-02
+1,1,"Salomon, Mr. Abraham L",male,30,0,26.0000,S,1992-12-06
+3,0,"Samaan, Mr. Elias",male,30,2,21.6792,C,1992-12-08
+3,0,"Samaan, Mr. Hanna",male,30,2,21.6792,C,1992-12-09
+3,0,"Samaan, Mr. Youssef",male,30,2,21.6792,C,1992-12-10
+3,0,"Scanlan, Mr. James",male,30,0,7.7250,Q,1992-12-17
+3,0,"Sdycoff, Mr. Todor",male,30,0,7.8958,S,1992-12-20
+3,0,"Shaughnessy, Mr. Patrick",male,30,0,7.7500,Q,1992-12-25
+3,0,"Shellard, Mr. Frederick William",male,30,0,15.1000,S,1992-12-27
+3,1,"Shine, Miss. Ellen Natalia",female,30,0,7.7792,Q,1992-12-29
+3,0,"Shorney, Mr. Charles Joseph",male,30,0,8.0500,S,1992-12-30
+3,0,"Simmons, Mr. John",male,30,0,8.0500,S,1993-01-05
+3,0,"Sirota, Mr. Maurice",male,30,0,8.0500,S,1993-01-10
+3,0,"Slabenoff, Mr. Petco",male,30,0,7.8958,S,1993-01-21
+3,0,"Slocovski, Mr. Selman Francis",male,30,0,8.0500,S,1993-01-24
+3,0,"Smiljanic, Mr. Mile",male,30,0,8.6625,S,1993-01-27
+1,0,"Smith, Mr. Richard William",male,30,0,26.0000,S,1993-01-31
+3,0,"Smith, Mr. Thomas",male,30,0,7.7500,Q,1993-02-01
+3,1,"Smyth, Miss. Julia",female,30,0,7.7333,Q,1993-02-03
+3,0,"Spector, Mr. Woolf",male,30,0,8.0500,S,1993-02-09
+1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,30,1,146.5208,C,1993-02-14
+3,0,"Staneff, Mr. Ivan",male,30,0,7.8958,S,1993-02-17
+3,0,"Thomas, Mr. Charles P",male,30,1,6.4375,C,1993-03-31
+3,0,"Thomas, Mr. John",male,30,0,6.4375,C,1993-04-01
+3,0,"Thomas, Mr. Tannous",male,30,0,7.2250,C,1993-04-02
+3,0,"Thomson, Mr. Alexander Morrison",male,30,0,8.0500,S,1993-04-04
+1,1,"Thorne, Mrs. Gertrude Maybelle",female,30,0,79.2000,C,1993-04-05
+3,0,"Thorneycroft, Mr. Percival",male,30,1,16.1000,S,1993-04-06
+3,1,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,30,1,16.1000,S,1993-04-07
+3,0,"Tobin, Mr. Roger",male,30,0,7.7500,Q,1993-04-09
+3,0,"Todoroff, Mr. Lalio",male,30,0,7.8958,S,1993-04-10
+3,0,"Torfa, Mr. Assad",male,30,0,7.2292,C,1993-04-14
+3,0,"Toufik, Mr. Nakli",male,30,0,7.2292,C,1993-04-16
+2,0,"Watson, Mr. Ennis Hastings",male,30,0,0.0000,S,1993-05-31
+2,0,"Wheeler, Mr. Edwin ""Frederick""",male,30,0,12.8750,S,1993-06-17
+2,1,"Williams, Mr. Charles Eugene",male,30,0,13.0000,S,1993-07-04
+1,0,"Williams-Lambert, Mr. Fletcher Fellows",male,30,0,35.0000,S,1993-07-07
+1,1,"Woolner, Mr. Hugh",male,30,0,35.5000,S,1993-07-12
+3,0,Master. Eugene Joseph,male,30,2,20.2500,S,1990-01-02
+3,1,"Baclini, Miss. Eugenie",female,30,3,19.2583,C,1990-03-20
+3,1,"Baclini, Miss. Helene Barbara",female,30,3,19.2583,C,1990-03-21
+3,0,"Buckley, Miss. Katherine",female,30,0,7.2833,Q,1990-06-17
+2,1,"Caldwell, Master. Alden Gates",male,30,2,29.0000,S,1990-07-04
+3,0,"Connors, Mr. Patrick",male,30,0,7.7500,Q,1990-09-21
+3,0,"Daher, Mr. Shedid",male,30,0,7.2250,C,1990-10-17
+3,1,"de Messemaeker, Mr. Guillaume Joseph",male,30,1,17.4000,S,1990-11-13
+3,0,"Everett, Mr. Thomas James",male,30,0,15.1000,S,1991-01-19
+3,0,"Farrell, Mr. James",male,30,0,7.7500,Q,1991-01-21
+2,1,"Hamalainen, Master. Viljo",male,30,2,14.5000,S,1991-05-08
+3,0,"Hanna, Mr. Mansour",male,30,0,7.2292,C,1991-05-11
+3,0,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,30,0,7.2292,C,1991-09-30
+1,0,"Keeping, Mr. Edwin",male,30,0,211.5000,C,1991-10-05
+3,0,"Kelly, Mr. James",male,30,0,7.8292,Q,1991-10-08
+3,0,"Lemberopolous, Mr. Peter L",male,30,0,6.4375,C,1991-12-04
+3,0,"Lovell, Mr. John Hall (""Henry"")",male,30,0,7.2500,S,1992-01-06
+3,0,"Mangan, Miss. Mary",female,30,0,7.7500,Q,1992-01-30
+3,0,"Novel, Mr. Mansouer",male,30,0,7.2292,C,1992-06-01
+1,0,"Ovies y Rodriguez, Mr. Servando",male,30,0,27.7208,C,1992-07-07
+1,0,"Partner, Mr. Austen",male,30,0,28.5000,S,1992-07-27
+3,0,"Peacock, Master. Alfred Edward",male,30,2,13.7750,S,1992-08-02
+2,1,"Richards, Master. George Sibley",male,30,2,18.7500,S,1992-10-05
+3,0,"Saether, Mr. Simon Sivertsen",male,30,0,7.2500,S,1992-11-21
+3,0,"Sage, Master. William Henry",male,30,10,69.5500,S,1992-11-23
+3,0,"Sawyer, Mr. Frederick Charles",male,30,0,8.0500,S,1992-12-16
+2,0,"Swane, Mr. George",male,30,0,13.0000,S,1993-03-17
+3,0,"Tomlin, Mr. Ernest Portage",male,30,0,8.0500,S,1993-04-11
+3,0,"van Billiard, Master. Walter John",male,30,2,14.5000,S,1993-05-01
+3,0,"van Billiard, Mr. Austin Blyler",male,30,2,14.5000,S,1993-05-02
+2,1,"Webber, Miss. Susan",female,30,0,13.0000,S,1993-06-03
+3,0,"Wenzel, Mr. Linhart",male,30,0,9.5000,S,1993-06-10
+2,1,"West, Miss. Barbara J",female,30,3,27.7500,S,1993-06-11
+3,0,"Williams, Mr. Leslie",male,30,0,16.1000,S,1993-07-05
+3,0,"Youseff, Mr. Gerious",male,30,0,7.2250,C,1993-07-18
+3,0,"Zabour, Miss. Hileni",female,30,1,14.4542,C,1993-07-20
+3,0,"Zakarian, Mr. Mapriededer",male,30,0,7.2250,C,1993-07-21
